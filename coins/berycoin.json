@@ -1,0 +1,8 @@
+{
+    "name": "Berycoin",
+    "symbol": "BERY",
+    "algorithm": "scrypt",
+    "peerMagic": "ac3ed3fd",
+    "peerMagicTestnet": "acb2d52c"
+}
+
