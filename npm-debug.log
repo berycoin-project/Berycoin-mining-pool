@@ -1,0 +1,1305 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/bilaldon/.nvm/v0.10.25/bin/node',
+1 verbose cli   '/home/bilaldon/.nvm/v0.10.25/bin/npm',
+1 verbose cli   'update' ]
+2 info using npm@1.3.24
+3 info using node@v0.10.25
+4 verbose url raw dateformat/latest
+5 verbose url resolving [ 'https://registry.npmjs.org/', './dateformat/latest' ]
+6 verbose url resolved https://registry.npmjs.org/dateformat/latest
+7 info trying registry request attempt 1 at 19:49:22
+8 http GET https://registry.npmjs.org/dateformat/latest
+9 verbose url raw log4js/latest
+10 verbose url resolving [ 'https://registry.npmjs.org/', './log4js/latest' ]
+11 verbose url resolved https://registry.npmjs.org/log4js/latest
+12 info trying registry request attempt 1 at 19:49:22
+13 http GET https://registry.npmjs.org/log4js/latest
+14 verbose url raw bitcoin/latest
+15 verbose url resolving [ 'https://registry.npmjs.org/', './bitcoin/latest' ]
+16 verbose url resolved https://registry.npmjs.org/bitcoin/latest
+17 info trying registry request attempt 1 at 19:49:22
+18 http GET https://registry.npmjs.org/bitcoin/latest
+19 verbose url raw node-json-minify/latest
+20 verbose url resolving [ 'https://registry.npmjs.org/', './node-json-minify/latest' ]
+21 verbose url resolved https://registry.npmjs.org/node-json-minify/latest
+22 info trying registry request attempt 1 at 19:49:22
+23 http GET https://registry.npmjs.org/node-json-minify/latest
+24 verbose url raw redis/latest
+25 verbose url resolving [ 'https://registry.npmjs.org/', './redis/latest' ]
+26 verbose url resolved https://registry.npmjs.org/redis/latest
+27 info trying registry request attempt 1 at 19:49:22
+28 http GET https://registry.npmjs.org/redis/latest
+29 verbose url raw mysql/latest
+30 verbose url resolving [ 'https://registry.npmjs.org/', './mysql/latest' ]
+31 verbose url resolved https://registry.npmjs.org/mysql/latest
+32 info trying registry request attempt 1 at 19:49:22
+33 http GET https://registry.npmjs.org/mysql/latest
+34 verbose url raw async/latest
+35 verbose url resolving [ 'https://registry.npmjs.org/', './async/latest' ]
+36 verbose url resolved https://registry.npmjs.org/async/latest
+37 info trying registry request attempt 1 at 19:49:22
+38 http GET https://registry.npmjs.org/async/latest
+39 verbose url raw express/latest
+40 verbose url resolving [ 'https://registry.npmjs.org/', './express/latest' ]
+41 verbose url resolved https://registry.npmjs.org/express/latest
+42 info trying registry request attempt 1 at 19:49:22
+43 http GET https://registry.npmjs.org/express/latest
+44 verbose url raw body-parser/latest
+45 verbose url resolving [ 'https://registry.npmjs.org/', './body-parser/latest' ]
+46 verbose url resolved https://registry.npmjs.org/body-parser/latest
+47 info trying registry request attempt 1 at 19:49:22
+48 http GET https://registry.npmjs.org/body-parser/latest
+49 verbose url raw compression/latest
+50 verbose url resolving [ 'https://registry.npmjs.org/', './compression/latest' ]
+51 verbose url resolved https://registry.npmjs.org/compression/latest
+52 info trying registry request attempt 1 at 19:49:22
+53 http GET https://registry.npmjs.org/compression/latest
+54 verbose url raw dot/latest
+55 verbose url resolving [ 'https://registry.npmjs.org/', './dot/latest' ]
+56 verbose url resolved https://registry.npmjs.org/dot/latest
+57 info trying registry request attempt 1 at 19:49:22
+58 http GET https://registry.npmjs.org/dot/latest
+59 verbose url raw newrelic/latest
+60 verbose url resolving [ 'https://registry.npmjs.org/', './newrelic/latest' ]
+61 verbose url resolved https://registry.npmjs.org/newrelic/latest
+62 info trying registry request attempt 1 at 19:49:22
+63 http GET https://registry.npmjs.org/newrelic/latest
+64 verbose url raw colors/latest
+65 verbose url resolving [ 'https://registry.npmjs.org/', './colors/latest' ]
+66 verbose url resolved https://registry.npmjs.org/colors/latest
+67 info trying registry request attempt 1 at 19:49:22
+68 http GET https://registry.npmjs.org/colors/latest
+69 verbose url raw node-watch/latest
+70 verbose url resolving [ 'https://registry.npmjs.org/', './node-watch/latest' ]
+71 verbose url resolved https://registry.npmjs.org/node-watch/latest
+72 info trying registry request attempt 1 at 19:49:22
+73 http GET https://registry.npmjs.org/node-watch/latest
+74 verbose url raw request/latest
+75 verbose url resolving [ 'https://registry.npmjs.org/', './request/latest' ]
+76 verbose url resolved https://registry.npmjs.org/request/latest
+77 info trying registry request attempt 1 at 19:49:22
+78 http GET https://registry.npmjs.org/request/latest
+79 verbose url raw nonce/latest
+80 verbose url resolving [ 'https://registry.npmjs.org/', './nonce/latest' ]
+81 verbose url resolved https://registry.npmjs.org/nonce/latest
+82 info trying registry request attempt 1 at 19:49:22
+83 http GET https://registry.npmjs.org/nonce/latest
+84 verbose url raw bignum/latest
+85 verbose url resolving [ 'https://registry.npmjs.org/', './bignum/latest' ]
+86 verbose url resolved https://registry.npmjs.org/bignum/latest
+87 info trying registry request attempt 1 at 19:49:22
+88 http GET https://registry.npmjs.org/bignum/latest
+89 verbose url raw extend/latest
+90 verbose url resolving [ 'https://registry.npmjs.org/', './extend/latest' ]
+91 verbose url resolved https://registry.npmjs.org/extend/latest
+92 info trying registry request attempt 1 at 19:49:22
+93 http GET https://registry.npmjs.org/extend/latest
+94 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+95 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+96 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+97 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+98 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+99 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+100 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+101 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+102 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+103 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+104 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+105 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+106 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+107 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+108 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+109 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+110 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+111 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+112 info trying registry request attempt 2 at 19:49:33
+113 http GET https://registry.npmjs.org/bitcoin/latest
+114 info trying registry request attempt 2 at 19:49:33
+115 http GET https://registry.npmjs.org/log4js/latest
+116 info trying registry request attempt 2 at 19:49:33
+117 http GET https://registry.npmjs.org/node-json-minify/latest
+118 info trying registry request attempt 2 at 19:49:33
+119 http GET https://registry.npmjs.org/redis/latest
+120 info trying registry request attempt 2 at 19:49:34
+121 http GET https://registry.npmjs.org/mysql/latest
+122 info trying registry request attempt 2 at 19:49:34
+123 http GET https://registry.npmjs.org/express/latest
+124 info trying registry request attempt 2 at 19:49:34
+125 http GET https://registry.npmjs.org/async/latest
+126 info trying registry request attempt 2 at 19:49:34
+127 http GET https://registry.npmjs.org/dateformat/latest
+128 info trying registry request attempt 2 at 19:49:35
+129 http GET https://registry.npmjs.org/body-parser/latest
+130 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+131 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+132 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+133 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+134 info trying registry request attempt 2 at 19:49:35
+135 http GET https://registry.npmjs.org/dot/latest
+136 info trying registry request attempt 2 at 19:49:35
+137 http GET https://registry.npmjs.org/colors/latest
+138 info trying registry request attempt 2 at 19:49:36
+139 http GET https://registry.npmjs.org/node-watch/latest
+140 info trying registry request attempt 2 at 19:49:36
+141 http GET https://registry.npmjs.org/nonce/latest
+142 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+143 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+144 info trying registry request attempt 2 at 19:49:37
+145 http GET https://registry.npmjs.org/compression/latest
+146 info trying registry request attempt 2 at 19:49:37
+147 http GET https://registry.npmjs.org/newrelic/latest
+148 info trying registry request attempt 2 at 19:49:37
+149 http GET https://registry.npmjs.org/bignum/latest
+150 info trying registry request attempt 2 at 19:49:37
+151 http GET https://registry.npmjs.org/request/latest
+152 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+153 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+154 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+155 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+156 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+157 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+158 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+159 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+160 info trying registry request attempt 2 at 19:49:38
+161 http GET https://registry.npmjs.org/extend/latest
+162 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+163 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+164 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+165 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+166 info trying registry request attempt 3 at 19:50:35
+167 http GET https://registry.npmjs.org/redis/latest
+168 info trying registry request attempt 3 at 19:50:35
+169 http GET https://registry.npmjs.org/log4js/latest
+170 info trying registry request attempt 3 at 19:50:35
+171 http GET https://registry.npmjs.org/node-json-minify/latest
+172 info trying registry request attempt 3 at 19:50:35
+173 http GET https://registry.npmjs.org/bitcoin/latest
+174 info trying registry request attempt 3 at 19:50:37
+175 http GET https://registry.npmjs.org/dateformat/latest
+176 info trying registry request attempt 3 at 19:50:37
+177 http GET https://registry.npmjs.org/body-parser/latest
+178 info trying registry request attempt 3 at 19:50:37
+179 http GET https://registry.npmjs.org/mysql/latest
+180 info trying registry request attempt 3 at 19:50:37
+181 http GET https://registry.npmjs.org/express/latest
+182 info trying registry request attempt 3 at 19:50:37
+183 http GET https://registry.npmjs.org/async/latest
+184 info trying registry request attempt 3 at 19:50:37
+185 http GET https://registry.npmjs.org/dot/latest
+186 info trying registry request attempt 3 at 19:50:37
+187 http GET https://registry.npmjs.org/colors/latest
+188 info trying registry request attempt 3 at 19:50:38
+189 http GET https://registry.npmjs.org/nonce/latest
+190 info trying registry request attempt 3 at 19:50:38
+191 http GET https://registry.npmjs.org/compression/latest
+192 info trying registry request attempt 3 at 19:50:38
+193 http GET https://registry.npmjs.org/newrelic/latest
+194 info trying registry request attempt 3 at 19:50:38
+195 http GET https://registry.npmjs.org/request/latest
+196 info trying registry request attempt 3 at 19:50:38
+197 http GET https://registry.npmjs.org/node-watch/latest
+198 info trying registry request attempt 3 at 19:50:38
+199 http GET https://registry.npmjs.org/bignum/latest
+200 info trying registry request attempt 3 at 19:50:39
+201 http GET https://registry.npmjs.org/extend/latest
+202 info outdated updating [ [ '/home/bilaldon/Desktop/berypooler',
+202 info outdated     'merged-pooler',
+202 info outdated     undefined,
+202 info outdated     'git',
+202 info outdated     'git',
+202 info outdated     'git://github.com/UNOMP/node-merged-pool' ],
+202 info outdated   [ '/home/bilaldon/Desktop/berypooler',
+202 info outdated     'node-poloniex',
+202 info outdated     undefined,
+202 info outdated     'git',
+202 info outdated     'git',
+202 info outdated     'git://github.com/sigwo/poloniex.js' ],
+202 info outdated   [ '/home/bilaldon/Desktop/berypooler',
+202 info outdated     'node-bittrex',
+202 info outdated     undefined,
+202 info outdated     'git',
+202 info outdated     'git',
+202 info outdated     'git://github.com/n0mad01/node.bittrex.api' ],
+202 info outdated   [ '/home/bilaldon/Desktop/berypooler',
+202 info outdated     'node-cryptopia',
+202 info outdated     undefined,
+202 info outdated     'git',
+202 info outdated     'git',
+202 info outdated     'git://github.com/sigwo/node-cryptopia' ] ]
+203 verbose install where,what [ '/home/bilaldon/Desktop/berypooler',
+203 verbose install   [ 'git://github.com/UNOMP/node-merged-pool' ] ]
+204 verbose install where,what [ '/home/bilaldon/Desktop/berypooler',
+204 verbose install   [ 'git://github.com/sigwo/poloniex.js' ] ]
+205 verbose install where,what [ '/home/bilaldon/Desktop/berypooler',
+205 verbose install   [ 'git://github.com/n0mad01/node.bittrex.api' ] ]
+206 verbose install where,what [ '/home/bilaldon/Desktop/berypooler',
+206 verbose install   [ 'git://github.com/sigwo/node-cryptopia' ] ]
+207 verbose readDependencies using package.json deps
+208 verbose cache add [ 'git://github.com/UNOMP/node-merged-pool', null ]
+209 verbose cache add name=undefined spec="git://github.com/UNOMP/node-merged-pool" args=["git://github.com/UNOMP/node-merged-pool",null]
+210 verbose parsed url { protocol: 'git:',
+210 verbose parsed url   slashes: true,
+210 verbose parsed url   auth: null,
+210 verbose parsed url   host: 'github.com',
+210 verbose parsed url   port: null,
+210 verbose parsed url   hostname: 'github.com',
+210 verbose parsed url   hash: null,
+210 verbose parsed url   search: null,
+210 verbose parsed url   query: null,
+210 verbose parsed url   pathname: '/UNOMP/node-merged-pool',
+210 verbose parsed url   path: '/UNOMP/node-merged-pool',
+210 verbose parsed url   href: 'git://github.com/UNOMP/node-merged-pool' }
+211 verbose readDependencies using package.json deps
+212 verbose cache add [ 'git://github.com/sigwo/poloniex.js', null ]
+213 verbose cache add name=undefined spec="git://github.com/sigwo/poloniex.js" args=["git://github.com/sigwo/poloniex.js",null]
+214 verbose parsed url { protocol: 'git:',
+214 verbose parsed url   slashes: true,
+214 verbose parsed url   auth: null,
+214 verbose parsed url   host: 'github.com',
+214 verbose parsed url   port: null,
+214 verbose parsed url   hostname: 'github.com',
+214 verbose parsed url   hash: null,
+214 verbose parsed url   search: null,
+214 verbose parsed url   query: null,
+214 verbose parsed url   pathname: '/sigwo/poloniex.js',
+214 verbose parsed url   path: '/sigwo/poloniex.js',
+214 verbose parsed url   href: 'git://github.com/sigwo/poloniex.js' }
+215 verbose readDependencies using package.json deps
+216 verbose cache add [ 'git://github.com/n0mad01/node.bittrex.api', null ]
+217 verbose cache add name=undefined spec="git://github.com/n0mad01/node.bittrex.api" args=["git://github.com/n0mad01/node.bittrex.api",null]
+218 verbose parsed url { protocol: 'git:',
+218 verbose parsed url   slashes: true,
+218 verbose parsed url   auth: null,
+218 verbose parsed url   host: 'github.com',
+218 verbose parsed url   port: null,
+218 verbose parsed url   hostname: 'github.com',
+218 verbose parsed url   hash: null,
+218 verbose parsed url   search: null,
+218 verbose parsed url   query: null,
+218 verbose parsed url   pathname: '/n0mad01/node.bittrex.api',
+218 verbose parsed url   path: '/n0mad01/node.bittrex.api',
+218 verbose parsed url   href: 'git://github.com/n0mad01/node.bittrex.api' }
+219 verbose readDependencies using package.json deps
+220 verbose cache add [ 'git://github.com/sigwo/node-cryptopia', null ]
+221 verbose cache add name=undefined spec="git://github.com/sigwo/node-cryptopia" args=["git://github.com/sigwo/node-cryptopia",null]
+222 verbose parsed url { protocol: 'git:',
+222 verbose parsed url   slashes: true,
+222 verbose parsed url   auth: null,
+222 verbose parsed url   host: 'github.com',
+222 verbose parsed url   port: null,
+222 verbose parsed url   hostname: 'github.com',
+222 verbose parsed url   hash: null,
+222 verbose parsed url   search: null,
+222 verbose parsed url   query: null,
+222 verbose parsed url   pathname: '/sigwo/node-cryptopia',
+222 verbose parsed url   path: '/sigwo/node-cryptopia',
+222 verbose parsed url   href: 'git://github.com/sigwo/node-cryptopia' }
+223 silly lockFile 367778ff-ithub-com-UNOMP-node-merged-pool git://github.com/UNOMP/node-merged-pool
+224 verbose lock git://github.com/UNOMP/node-merged-pool /home/bilaldon/.npm/367778ff-ithub-com-UNOMP-node-merged-pool.lock
+225 silly lockFile 54a9e0cc-git-github-com-sigwo-poloniex-js git://github.com/sigwo/poloniex.js
+226 verbose lock git://github.com/sigwo/poloniex.js /home/bilaldon/.npm/54a9e0cc-git-github-com-sigwo-poloniex-js.lock
+227 silly lockFile 50ef1249-hub-com-n0mad01-node-bittrex-api git://github.com/n0mad01/node.bittrex.api
+228 verbose lock git://github.com/n0mad01/node.bittrex.api /home/bilaldon/.npm/50ef1249-hub-com-n0mad01-node-bittrex-api.lock
+229 silly lockFile 6141534d--github-com-sigwo-node-cryptopia git://github.com/sigwo/node-cryptopia
+230 verbose lock git://github.com/sigwo/node-cryptopia /home/bilaldon/.npm/6141534d--github-com-sigwo-node-cryptopia.lock
+231 verbose addRemoteGit [ 'git://github.com/UNOMP/node-merged-pool', 'master' ]
+232 verbose addRemoteGit [ 'git://github.com/sigwo/poloniex.js', 'master' ]
+233 verbose addRemoteGit [ 'git://github.com/n0mad01/node.bittrex.api', 'master' ]
+234 verbose addRemoteGit [ 'git://github.com/sigwo/node-cryptopia', 'master' ]
+235 verbose git remote.origin.url git://github.com/sigwo/node-cryptopia
+236 verbose git remote.origin.url git://github.com/n0mad01/node.bittrex.api
+237 verbose git remote.origin.url git://github.com/sigwo/poloniex.js
+238 verbose git remote.origin.url git://github.com/UNOMP/node-merged-pool
+239 verbose git fetch -a origin (git://github.com/sigwo/poloniex.js)
+240 verbose git rev-list -n1 master 9f2651b6ab282936cada4814464f3d9251457215
+241 verbose resolved git url git://github.com/sigwo/poloniex.js#9f2651b6ab282936cada4814464f3d9251457215
+242 verbose tar unpack /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/tmp.tgz
+243 silly lockFile 0133c0b0-41092-0-4748177647124976-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package
+244 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package /home/bilaldon/.npm/0133c0b0-41092-0-4748177647124976-package.lock
+245 silly lockFile 7757437b-41092-0-4748177647124976-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/tmp.tgz
+246 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/tmp.tgz /home/bilaldon/.npm/7757437b-41092-0-4748177647124976-tmp-tgz.lock
+247 silly gunzTarPerm modes [ '755', '644' ]
+248 silly gunzTarPerm extractEntry
+249 silly gunzTarPerm modified mode [ '', 509, 493 ]
+250 silly gunzTarPerm extractEntry .gitignore
+251 silly gunzTarPerm modified mode [ '.gitignore', 436, 420 ]
+252 silly gunzTarPerm extractEntry LICENSE
+253 silly gunzTarPerm modified mode [ 'LICENSE', 436, 420 ]
+254 silly gunzTarPerm extractEntry README.md
+255 silly gunzTarPerm modified mode [ 'README.md', 436, 420 ]
+256 silly gunzTarPerm extractEntry example.js
+257 silly gunzTarPerm modified mode [ 'example.js', 436, 420 ]
+258 silly gunzTarPerm extractEntry lib/
+259 silly gunzTarPerm modified mode [ 'lib/', 509, 493 ]
+260 silly gunzTarPerm extractEntry lib/poloniex.js
+261 silly gunzTarPerm modified mode [ 'lib/poloniex.js', 436, 420 ]
+262 silly gunzTarPerm extractEntry package.json
+263 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
+264 verbose git fetch -a origin (git://github.com/UNOMP/node-merged-pool)
+265 verbose git rev-list -n1 master 408bf596be5ef03d62eb173fc449c5f87b3a604b
+266 verbose resolved git url git://github.com/UNOMP/node-merged-pool#408bf596be5ef03d62eb173fc449c5f87b3a604b
+267 verbose git fetch -a origin (git://github.com/n0mad01/node.bittrex.api)
+268 verbose git fetch -a origin (git://github.com/sigwo/node-cryptopia)
+269 verbose git rev-list -n1 master 475c2b27f82e7f59bf43f6b58605f515e1bb9e9e
+270 verbose resolved git url git://github.com/sigwo/node-cryptopia#475c2b27f82e7f59bf43f6b58605f515e1bb9e9e
+271 verbose git rev-list -n1 master 63bb23c988895e3b8f08bc16903f42e2aa2a4827
+272 verbose resolved git url git://github.com/n0mad01/node.bittrex.api#63bb23c988895e3b8f08bc16903f42e2aa2a4827
+273 silly lockFile 0133c0b0-41092-0-4748177647124976-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package
+274 silly lockFile 0133c0b0-41092-0-4748177647124976-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package
+275 silly lockFile 7757437b-41092-0-4748177647124976-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/tmp.tgz
+276 silly lockFile 7757437b-41092-0-4748177647124976-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/tmp.tgz
+277 verbose tar unpack /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/tmp.tgz
+278 silly lockFile 63a9d29a-441129-0-382629094645381-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package
+279 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package /home/bilaldon/.npm/63a9d29a-441129-0-382629094645381-package.lock
+280 silly lockFile 967e7c93-441129-0-382629094645381-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/tmp.tgz
+281 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/tmp.tgz /home/bilaldon/.npm/967e7c93-441129-0-382629094645381-tmp-tgz.lock
+282 verbose tar pack [ '/home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz',
+282 verbose tar pack   '/home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package' ]
+283 verbose tarball /home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+284 verbose folder /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package
+285 silly lockFile 0133c0b0-41092-0-4748177647124976-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package
+286 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package /home/bilaldon/.npm/0133c0b0-41092-0-4748177647124976-package.lock
+287 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+288 verbose lock tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz /home/bilaldon/.npm/5f6289ef-pm-poloniex-js-0-0-5-package-tgz.lock
+289 silly gunzTarPerm modes [ '755', '644' ]
+290 silly gunzTarPerm extractEntry
+291 silly gunzTarPerm modified mode [ '', 509, 493 ]
+292 verbose tar unpack /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/tmp.tgz
+293 silly lockFile 568d8b55-41127-0-7911299951374531-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package
+294 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package /home/bilaldon/.npm/568d8b55-41127-0-7911299951374531-package.lock
+295 silly lockFile b7ba5365-41127-0-7911299951374531-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/tmp.tgz
+296 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/tmp.tgz /home/bilaldon/.npm/b7ba5365-41127-0-7911299951374531-tmp-tgz.lock
+297 silly gunzTarPerm extractEntry LICENSE
+298 silly gunzTarPerm modified mode [ 'LICENSE', 436, 420 ]
+299 silly gunzTarPerm extractEntry README.md
+300 silly gunzTarPerm modified mode [ 'README.md', 436, 420 ]
+301 silly gunzTarPerm extractEntry cryptopia.js
+302 silly gunzTarPerm modified mode [ 'cryptopia.js', 436, 420 ]
+303 silly gunzTarPerm modes [ '755', '644' ]
+304 silly gunzTarPerm extractEntry curlCommands.sh
+305 silly gunzTarPerm modified mode [ 'curlCommands.sh', 436, 420 ]
+306 silly gunzTarPerm extractEntry hmac-sha256.js
+307 silly gunzTarPerm modified mode [ 'hmac-sha256.js', 436, 420 ]
+308 silly gunzTarPerm extractEntry hmac-sha512.js
+309 silly gunzTarPerm modified mode [ 'hmac-sha512.js', 436, 420 ]
+310 silly gunzTarPerm extractEntry package.json
+311 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
+312 silly gunzTarPerm extractEntry
+313 silly gunzTarPerm modified mode [ '', 509, 493 ]
+314 silly gunzTarPerm extractEntry .gitignore
+315 silly gunzTarPerm modified mode [ '.gitignore', 436, 420 ]
+316 silly gunzTarPerm extractEntry LICENSE
+317 silly gunzTarPerm modified mode [ 'LICENSE', 436, 420 ]
+318 silly gunzTarPerm extractEntry README
+319 silly gunzTarPerm modified mode [ 'README', 436, 420 ]
+320 silly gunzTarPerm extractEntry README.md
+321 silly gunzTarPerm modified mode [ 'README.md', 436, 420 ]
+322 silly gunzTarPerm extractEntry examples/
+323 silly gunzTarPerm modified mode [ 'examples/', 509, 493 ]
+324 silly gunzTarPerm extractEntry examples/bittrex.examples.js
+325 silly gunzTarPerm modified mode [ 'examples/bittrex.examples.js', 436, 420 ]
+326 silly gunzTarPerm extractEntry examples/bittrex.websockets.client.js
+327 silly gunzTarPerm modified mode [ 'examples/bittrex.websockets.client.js', 436, 420 ]
+328 silly gunzTarPerm extractEntry examples/bittrex.websockets.listen.example.js
+329 silly gunzTarPerm modified mode [ 'examples/bittrex.websockets.listen.example.js', 436, 420 ]
+330 verbose tar unpack /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/tmp.tgz
+331 silly lockFile 96df91e0-1119-0-07892052340321243-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package
+332 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package /home/bilaldon/.npm/96df91e0-1119-0-07892052340321243-package.lock
+333 silly lockFile 832766f3-1119-0-07892052340321243-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/tmp.tgz
+334 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/tmp.tgz /home/bilaldon/.npm/832766f3-1119-0-07892052340321243-tmp-tgz.lock
+335 silly gunzTarPerm modes [ '755', '644' ]
+336 silly gunzTarPerm extractEntry
+337 silly gunzTarPerm modified mode [ '', 509, 493 ]
+338 silly gunzTarPerm extractEntry .gitignore
+339 silly gunzTarPerm modified mode [ '.gitignore', 436, 420 ]
+340 silly gunzTarPerm extractEntry .npmignore
+341 silly gunzTarPerm modified mode [ '.npmignore', 436, 420 ]
+342 silly gunzTarPerm extractEntry .travis.yml
+343 silly gunzTarPerm modified mode [ '.travis.yml', 436, 420 ]
+344 silly lockFile 0133c0b0-41092-0-4748177647124976-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package
+345 silly lockFile 0133c0b0-41092-0-4748177647124976-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441092-0.4748177647124976/package
+346 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+347 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+348 silly gunzTarPerm extractEntry LICENSE
+349 silly gunzTarPerm modified mode [ 'LICENSE', 436, 420 ]
+350 silly gunzTarPerm extractEntry README.md
+351 silly gunzTarPerm modified mode [ 'README.md', 436, 420 ]
+352 silly lockFile 72c074d5-on-npm-poloniex-js-0-0-5-package /home/bilaldon/.npm/poloniex.js/0.0.5/package
+353 verbose lock /home/bilaldon/.npm/poloniex.js/0.0.5/package /home/bilaldon/.npm/72c074d5-on-npm-poloniex-js-0-0-5-package.lock
+354 silly gunzTarPerm extractEntry example.js
+355 silly gunzTarPerm modified mode [ 'example.js', 436, 420 ]
+356 silly gunzTarPerm extractEntry lib/
+357 silly gunzTarPerm modified mode [ 'lib/', 509, 493 ]
+358 silly gunzTarPerm extractEntry examples/bittrex.websockets.subscribe.example.js
+359 silly gunzTarPerm modified mode [ 'examples/bittrex.websockets.subscribe.example.js', 436, 420 ]
+360 silly gunzTarPerm extractEntry hmac-sha512.js
+361 silly gunzTarPerm modified mode [ 'hmac-sha512.js', 436, 420 ]
+362 silly gunzTarPerm extractEntry lib/algoProperties.js
+363 silly gunzTarPerm modified mode [ 'lib/algoProperties.js', 436, 420 ]
+364 silly gunzTarPerm extractEntry lib/blockTemplate.js
+365 silly gunzTarPerm modified mode [ 'lib/blockTemplate.js', 436, 420 ]
+366 silly gunzTarPerm extractEntry node.bittrex.api.js
+367 silly gunzTarPerm modified mode [ 'node.bittrex.api.js', 436, 420 ]
+368 silly gunzTarPerm extractEntry package-lock.json
+369 silly gunzTarPerm modified mode [ 'package-lock.json', 436, 420 ]
+370 silly gunzTarPerm extractEntry package.json
+371 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
+372 silly gunzTarPerm extractEntry lib/daemon.js
+373 silly gunzTarPerm modified mode [ 'lib/daemon.js', 436, 420 ]
+374 silly gunzTarPerm extractEntry lib/index.js
+375 silly gunzTarPerm modified mode [ 'lib/index.js', 436, 420 ]
+376 silly gunzTarPerm extractEntry tests/
+377 silly gunzTarPerm modified mode [ 'tests/', 509, 493 ]
+378 silly gunzTarPerm extractEntry tests/config_example.json
+379 silly gunzTarPerm modified mode [ 'tests/config_example.json', 436, 420 ]
+380 silly gunzTarPerm extractEntry tests/private.js
+381 silly gunzTarPerm modified mode [ 'tests/private.js', 436, 420 ]
+382 silly gunzTarPerm extractEntry tests/public.js
+383 silly gunzTarPerm modified mode [ 'tests/public.js', 436, 420 ]
+384 silly lockFile 63a9d29a-441129-0-382629094645381-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package
+385 silly lockFile 63a9d29a-441129-0-382629094645381-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package
+386 silly lockFile 967e7c93-441129-0-382629094645381-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/tmp.tgz
+387 silly lockFile 967e7c93-441129-0-382629094645381-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/tmp.tgz
+388 verbose tar pack [ '/home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz',
+388 verbose tar pack   '/home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package' ]
+389 verbose tarball /home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+390 verbose folder /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package
+391 silly lockFile 63a9d29a-441129-0-382629094645381-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package
+392 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package /home/bilaldon/.npm/63a9d29a-441129-0-382629094645381-package.lock
+393 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+394 verbose lock tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz /home/bilaldon/.npm/fcafa37d-de-bittrex-api-0-2-2-package-tgz.lock
+395 silly gunzTarPerm extractEntry lib/jobManager.js
+396 silly gunzTarPerm modified mode [ 'lib/jobManager.js', 436, 420 ]
+397 silly gunzTarPerm extractEntry lib/merkleTree.js
+398 silly gunzTarPerm modified mode [ 'lib/merkleTree.js', 436, 420 ]
+399 silly gunzTarPerm extractEntry lib/peer.js
+400 silly gunzTarPerm modified mode [ 'lib/peer.js', 436, 420 ]
+401 silly gunzTarPerm extractEntry lib/pool.js
+402 silly gunzTarPerm modified mode [ 'lib/pool.js', 436, 420 ]
+403 silly lockFile 72c074d5-on-npm-poloniex-js-0-0-5-package /home/bilaldon/.npm/poloniex.js/0.0.5/package
+404 silly lockFile 72c074d5-on-npm-poloniex-js-0-0-5-package /home/bilaldon/.npm/poloniex.js/0.0.5/package
+405 verbose tar unpack /home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+406 silly lockFile 19b8fa40-on-npm-poloniex-js-0-0-5-package tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package
+407 verbose lock tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package /home/bilaldon/.npm/19b8fa40-on-npm-poloniex-js-0-0-5-package.lock
+408 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+409 verbose lock tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz /home/bilaldon/.npm/5f6289ef-pm-poloniex-js-0-0-5-package-tgz.lock
+410 silly gunzTarPerm modes [ '755', '644' ]
+411 silly gunzTarPerm extractEntry package.json
+412 silly gunzTarPerm extractEntry .npmignore
+413 silly gunzTarPerm extractEntry README.md
+414 silly gunzTarPerm extractEntry LICENSE
+415 silly gunzTarPerm extractEntry example.js
+416 silly gunzTarPerm extractEntry lib/stratum.js
+417 silly gunzTarPerm modified mode [ 'lib/stratum.js', 436, 420 ]
+418 silly gunzTarPerm extractEntry lib/transactions.js
+419 silly gunzTarPerm modified mode [ 'lib/transactions.js', 436, 420 ]
+420 silly gunzTarPerm extractEntry lib/util.js
+421 silly gunzTarPerm modified mode [ 'lib/util.js', 436, 420 ]
+422 silly gunzTarPerm extractEntry lib/poloniex.js
+423 silly gunzTarPerm extractEntry lib/varDiff.js
+424 silly gunzTarPerm modified mode [ 'lib/varDiff.js', 436, 420 ]
+425 silly gunzTarPerm extractEntry package.json
+426 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
+427 silly lockFile 63a9d29a-441129-0-382629094645381-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package
+428 silly lockFile 63a9d29a-441129-0-382629094645381-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441129-0.382629094645381/package
+429 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+430 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+431 silly lockFile a15c1cc9-m-node-bittrex-api-0-2-2-package /home/bilaldon/.npm/node.bittrex.api/0.2.2/package
+432 verbose lock /home/bilaldon/.npm/node.bittrex.api/0.2.2/package /home/bilaldon/.npm/a15c1cc9-m-node-bittrex-api-0-2-2-package.lock
+433 silly lockFile a15c1cc9-m-node-bittrex-api-0-2-2-package /home/bilaldon/.npm/node.bittrex.api/0.2.2/package
+434 silly lockFile a15c1cc9-m-node-bittrex-api-0-2-2-package /home/bilaldon/.npm/node.bittrex.api/0.2.2/package
+435 verbose tar unpack /home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+436 silly lockFile bfe3ad22-m-node-bittrex-api-0-2-2-package tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package
+437 verbose lock tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package /home/bilaldon/.npm/bfe3ad22-m-node-bittrex-api-0-2-2-package.lock
+438 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+439 verbose lock tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz /home/bilaldon/.npm/fcafa37d-de-bittrex-api-0-2-2-package-tgz.lock
+440 silly gunzTarPerm modes [ '755', '644' ]
+441 silly gunzTarPerm extractEntry package.json
+442 silly gunzTarPerm extractEntry README.md
+443 silly gunzTarPerm extractEntry LICENSE
+444 silly gunzTarPerm extractEntry cryptopia.js
+445 silly gunzTarPerm extractEntry hmac-sha256.js
+446 silly gunzTarPerm extractEntry hmac-sha512.js
+447 silly lockFile 19b8fa40-on-npm-poloniex-js-0-0-5-package tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package
+448 silly lockFile 19b8fa40-on-npm-poloniex-js-0-0-5-package tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package
+449 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+450 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+451 verbose chmod /home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz 644
+452 verbose chown /home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz [ 1000, 1000 ]
+453 silly gunzTarPerm extractEntry curlCommands.sh
+454 silly lockFile 54a9e0cc-git-github-com-sigwo-poloniex-js git://github.com/sigwo/poloniex.js
+455 silly lockFile 54a9e0cc-git-github-com-sigwo-poloniex-js git://github.com/sigwo/poloniex.js
+456 silly resolved [ { name: 'poloniex.js',
+456 silly resolved     version: '0.0.5',
+456 silly resolved     description: 'Poloniex API client',
+456 silly resolved     author: { name: 'Premasagar Rose', email: 'p@premasagar.com' },
+456 silly resolved     license: 'MIT',
+456 silly resolved     readmeFilename: 'README.md',
+456 silly resolved     main: 'lib/poloniex',
+456 silly resolved     dependencies: { nonce: '~1.0.3', request: '~2.33.0' },
+456 silly resolved     devDependencies: {},
+456 silly resolved     scripts: {},
+456 silly resolved     repository:
+456 silly resolved      { type: 'git',
+456 silly resolved        url: 'https://github.com/premasagar/poloniex.js.git' },
+456 silly resolved     keywords: [ 'poloniex', 'bitcoin', 'cryptocurrency', 'exchange', 'altcoins' ],
+456 silly resolved     bugs: { url: 'https://github.com/premasagar/poloniex.js/issues' },
+456 silly resolved     engines: { node: '>=0.10' },
+456 silly resolved     readme: '# poloniex.js\n\nAn (unofficial) Node.js API client for the [Poloniex][poloniex] cryptocurrency exchange.\n\nThe client supports both public (unauthenticated) and private (authenticated) calls to the [Poloniex API][poloniex-api].\n\nFor private calls, the user secret is never exposed to other parts of the program or over the Web. The user key is sent as a header to the API, along with a signed request.\n\nRepo home: [github.com/premasagar/poloniex.js][repo]\n\n\n## License\n\nMIT, open source. See LICENSE file.\n\n\n## Install via NPM\n\n    npm install poloniex.js\n\n\n## Or clone from GitHub\n\n    git clone https://github.com/premasagar/poloniex.js.git\n    cd poloniex\n    npm install\n\n\n## Or download the latest zip\n\n* [zip download][repo-zip]\n\n\n## Require as a module\n\nIn your app, require the module:\n\n    var Poloniex = require(\'poloniex.js\');\n\nIf not installed via NPM, then provide the path to lib/poloniex.js\n\n\n## Temporary certificate workaround\n\nCurrently, the API server\'s certficate is rejected. This is presumably a temporary issue and has been reported to Poloniex. The line below is a temporary workaround. First try using the client without this.\n\n    Poloniex.STRICT_SSL = false;\n\n\n## Create an instance of the client\n\nIf only public API calls are needed, then no API key or secret is required:\n\n    var poloniex = new Poloniex();\n\nOr, to use Poloniex\'s trading API, [your API key and secret][poloniex-keys] must be provided:\n\n    var poloniex = new Poloniex(\'API_KEY\', \'API_SECRET\');\n\n\n## Make API calls\n\nAll [Poloniex API][poloniex-api] methods are supported (with some name changes to avoid naming collisions). All methods require a callback function.\n\nThe callback is passed two arguments:\n\n1. An error object, or `null` if the API request was successful\n2. A data object, the response from the API\n\nFor the most up-to-date API documentation, see [poloniex.com/api][poloniex-api].\n\n\n## Public API methods\n\nThese methods do not require a user key or secret.\n\n\n### getTicker(callback)\n\nReturns the ticker for all markets.  \nCalls API method `returnTicker`.\n\n    poloniex.getTicker(function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"BTC_LTC":"0.026","BTC_NXT":"0.00007600", ... }\n\n\n### get24hVolume(callback)\n\nReturns the 24-hour volume for all markets, plus totals for primary currencies.  \nCalls API method `return24hVolume`.\n\n    poloniex.get24hVolume(function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"BTC_LTC":{"BTC":"2.23248854","LTC":"87.10381314"},"BTC_NXT":{"BTC":"0.981616","NXT":"14145"}, ... "totalBTC":"81.89657704","totalLTC":"78.52083806"}\n\n\n### getOrderBook(currencyA, currencyB, callback)\n\nReturns the order book for a given market.  \nCalls API method `returnOrderBook`.\n\n    poloniex.getOrderBook(\'VTC\', \'BTC\', function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"asks":[[0.00007600,1164],[0.00007620,1300], ... "bids":[[0.00006901,200],[0.00006900,408], ... }\n\n\n### getTradeHistory(currencyA, currencyB, callback)\n\nReturns the past 200 trades for a given market.  \nCalls API method `returnTradeHistory`.\n\n    poloniex.getTradeHistory(\'VTC\', \'BTC\', function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    [{"date":"2014-02-10 04:23:23","type":"buy","rate":"0.00007600","amount":"140","total":"0.01064"},{"date":"2014-02-10 01:19:37","type":"buy","rate":"0.00007600","amount":"655","total":"0.04978"}, ... ]\n\n\n\n## Private, trading API methods\n\nThese methods require the user key and secret.\n\n\n### myBalances(callback)\n\nReturns all of your balances.  \nCalls API method `returnBalances`.\n\n    poloniex.myBalances(function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"BTC":"0.59098578","LTC":"3.31117268", ... }\n\n\n### myOpenOrders(currencyA, currencyB, callback)\n\nReturns your open orders for a given market, specified by the currency pair.  \nCalls API method `returnOpenOrders`.\n\n    poloniex.myOpenOrders(\'VTC\', \'BTC\', function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    [{"orderNumber":"120466","type":"sell","rate":"0.025","amount":"100","total":"2.5"},{"orderNumber":"120467","type":"sell","rate":"0.04","amount":"100","total":"4"}, ... ]\n\n\n### myTradeHistory(currencyA, currencyB, callback)\n\nReturns your trade history for a given market, specified by the currency pair.  \nCalls API method `returnTradeHistory`.\n\n    poloniex.myTradeHistory(\'VTC\', \'BTC\', function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    [{"date":"2014-02-19 03:44:59","rate":"0.0011","amount":"99.9070909","total":"0.10989779","type":"sell"},{"date":"2014-02-19 04:55:44","rate":"0.0015","amount":"100","total":"0.15","type":"sell"}, ... ]\n\n\n### buy(currencyA, currencyB, rate, amount, callback)\n\nPlaces a buy order in a given market.\n\n    poloniex.buy(\'VTC\', \'BTC\', 0.1, 100, function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"orderNumber":170675}\n    \n\n### sell(currencyA, currencyB, rate, amount, callback)\n\nPlaces a sell order in a given market.\n\n    poloniex.sell(\'VTC\', \'BTC\', 0.1, 100, function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"orderNumber":170675}\n    \n\n### cancelOrder(currencyA, currencyB, orderNumber, callback)\n\nCancels an order you have placed in a given market.\n\n    poloniex.cancelOrder(\'VTC\', \'BTC\', 170675, function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"success":1} \n    \n\n### withdraw(currency, amount, address, callback)\n\nReturns your open orders for a given market, specified by the currency pair.\n\n    poloniex.myOpenOrders(\'BTC\', 0.01, \'17Hzfoobar\', function(err, data){\n        if (err){\n            // handle error\n        }\n\n        console.log(data);\n    });\n\n\nExample response:\n\n    {"response":"Withdrew 2398 NXT."} \n\n\n\n[repo]: https://github.com/premasagar/poloniex.js\n[repo-zip]: https://github.com/premasagar/poloniex.js/archive/master.zip\n[poloniex]: https://poloniex.com\n[poloniex-api]: https://poloniex.com/api\n[poloniex-keys]: https://poloniex.com/apiKeys\n',
+456 silly resolved     homepage: 'https://github.com/premasagar/poloniex.js',
+456 silly resolved     _id: 'poloniex.js@0.0.5',
+456 silly resolved     dist: { shasum: '9ca0fd06f7cadcdc602bdca174079942e9ed95a2' },
+456 silly resolved     _resolved: 'git://github.com/sigwo/poloniex.js#9f2651b6ab282936cada4814464f3d9251457215',
+456 silly resolved     _from: 'git://github.com/sigwo/poloniex.js' } ]
+457 info install poloniex.js@0.0.5 into /home/bilaldon/Desktop/berypooler
+458 info installOne poloniex.js@0.0.5
+459 info /home/bilaldon/Desktop/berypooler/node_modules/poloniex.js unbuild
+460 verbose tar unpack /home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+461 silly lockFile b49eb1ee-ypooler-node-modules-poloniex-js tar:///home/bilaldon/Desktop/berypooler/node_modules/poloniex.js
+462 verbose lock tar:///home/bilaldon/Desktop/berypooler/node_modules/poloniex.js /home/bilaldon/.npm/b49eb1ee-ypooler-node-modules-poloniex-js.lock
+463 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+464 verbose lock tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz /home/bilaldon/.npm/5f6289ef-pm-poloniex-js-0-0-5-package-tgz.lock
+465 silly gunzTarPerm modes [ '755', '644' ]
+466 silly gunzTarPerm extractEntry package.json
+467 silly gunzTarPerm extractEntry .npmignore
+468 silly gunzTarPerm extractEntry README.md
+469 silly lockFile 568d8b55-41127-0-7911299951374531-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package
+470 silly lockFile 568d8b55-41127-0-7911299951374531-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package
+471 silly lockFile b7ba5365-41127-0-7911299951374531-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/tmp.tgz
+472 silly lockFile b7ba5365-41127-0-7911299951374531-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/tmp.tgz
+473 verbose tar pack [ '/home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz',
+473 verbose tar pack   '/home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package' ]
+474 verbose tarball /home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+475 verbose folder /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package
+476 silly lockFile 568d8b55-41127-0-7911299951374531-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package
+477 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package /home/bilaldon/.npm/568d8b55-41127-0-7911299951374531-package.lock
+478 silly lockFile 8d5ed1cd-de-bittrex-api-0-6-6-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+479 verbose lock tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz /home/bilaldon/.npm/8d5ed1cd-de-bittrex-api-0-6-6-package-tgz.lock
+480 silly gunzTarPerm extractEntry LICENSE
+481 silly gunzTarPerm extractEntry example.js
+482 silly gunzTarPerm extractEntry lib/poloniex.js
+483 silly lockFile bfe3ad22-m-node-bittrex-api-0-2-2-package tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package
+484 silly lockFile bfe3ad22-m-node-bittrex-api-0-2-2-package tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package
+485 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+486 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+487 verbose chmod /home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz 644
+488 verbose chown /home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz [ 1000, 1000 ]
+489 silly lockFile 6141534d--github-com-sigwo-node-cryptopia git://github.com/sigwo/node-cryptopia
+490 silly lockFile 6141534d--github-com-sigwo-node-cryptopia git://github.com/sigwo/node-cryptopia
+491 silly resolved [ { name: 'node.bittrex.api',
+491 silly resolved     version: '0.2.2',
+491 silly resolved     description: 'Node Bittrex API - asynchronous node.js library for the Bittrex API https://bittrex.com/',
+491 silly resolved     keywords: [ 'btc', 'xbt', 'bitcoin', 'altcoin', 'bittrex' ],
+491 silly resolved     author: { name: 'Adrian Soluch', url: ' https://github.com/n0mad01 ' },
+491 silly resolved     contributors: [],
+491 silly resolved     license: 'MIT',
+491 silly resolved     dependencies:
+491 silly resolved      { request: '>= 2.35.0',
+491 silly resolved        JSONStream: '>= 0.8.4',
+491 silly resolved        'event-stream': '>= 3.1.5' },
+491 silly resolved     repository:
+491 silly resolved      { type: 'git',
+491 silly resolved        url: 'https://github.com/n0mad01/node.bittrex.api' },
+491 silly resolved     main: 'node.bittrex.api.js',
+491 silly resolved     engines: { node: '>=0.10' },
+491 silly resolved     bugs:
+491 silly resolved      { url: 'https://github.com/n0mad01/node.bittrex.api/issues',
+491 silly resolved        email: 'adrian.soluch@gmail.com' },
+491 silly resolved     homepage: 'https://github.com/n0mad01/node.bittrex.api',
+491 silly resolved     scripts: { test: 'echo "Error: no test specified" && exit 1' },
+491 silly resolved     readme: '# Cryptopia\n\nA (unofficial) Node.js API client for the [Cryptopia][cryptopia].\n\nThe client supports public (unauthenticated) calls to the [Cryptopia][cryptopia-api]. Private calls coming soon.\n\nFor private calls, the user secret is never exposed to other parts of the program or over the Web. The user key is sent as a header to the API, along with a signed request.\n\nRepo home: [github.com/sigwo/node-cryptopia][repo]\n\n\n## License\n\nThis Library was created by using parts of [Adrian Soluch (@n0mad01)](https://github.com/n0mad01/) [soluch.us](http://soluch.us) [node.bittrex.api] (https://github.com/n0mad01/node.bittrex.api/blob/master/node.bittrex.api.js) MIT, open source. See LICENSE file.\n\n## Clone from GitHub\n\n    git clone https://github.com/sigwo/node-cryptopia.git\n    cd node-cryptopia\n    npm install\n\n\n## Require as a module\n\nIn your app, require the module:\n\n    var Cryptopia = require(\'cryptopia\');\n\nIf not installed via NPM, then provide the path to cryptopia.js\n\n## Create an instance of the client\n\nIf only public API calls are needed, then no API key or secret is required:\n\n    var cryptopia = new Cryptopia();\n\n## Make API calls\n\nAll [Cryptopia API][cryptopia-api] methods are supported (with some name changes to avoid naming collisions). All methods require a callback function.\n\n```\ncryptopia.getcurrencies(function(data) {\n  console.log(data);\n});\n```\nResponse:\n```\n{ Success: true,\n  Message: null,\n  Data:\n   [ { Id: 2, Name: \'Dotcoin\', Symbol: \'DOT\', Algorithm: \'Scrypt\' },\n     { Id: 3, Name: \'Litecoin\', Symbol: \'LTC\', Algorithm: \'Scrypt\' },\n     { Id: 4, Name: \'Dogecoin\', Symbol: \'DOGE\', Algorithm: \'Scrypt\' },\n     { Id: 6, Name: \'Potcoin\', Symbol: \'POT\', Algorithm: \'Scrypt\' },\n     { Id: 9, Name: \'PopularCoin\', Symbol: \'POP\', Algorithm: \'Scrypt\' },\n     { Id: 11, Name: \'Reddcoin\', Symbol: \'RDD\', Algorithm: \'Scrypt\' },\n     ...\n    Error: null }\nstreamed from https://www.cryptopia.co.nz/api/GetCurrencies in: 0.587s\n```\n```\ncryptopia.getmarket(\'100\', function(data) {\n  console.log(data);\n});\n```\nResponse:\n```\n{ Success: true,\n  Message: null,\n  Data:\n   { TradePairId: 100,\n     Label: \'DOT/BTC\',\n     AskPrice: 2.0000000000000004e-7,\n     BidPrice: 1.8000000000000002e-7,\n     Low: 1.7000000000000004e-7,\n     High: 2.0000000000000004e-7,\n     Volume: 2710673.8817330003,\n     LastPrice: 1.8000000000000002e-7,\n     LastVolume: 200,\n     BuyVolume: 89786389.71749353,\n     SellVolume: 33485774.14500672,\n     Change: 0 },\n  Error: null }\nstreamed from https://www.cryptopia.co.nz/api/GetMarket/100 in: 0.631s\n```\nThe callback is passed in a data object, the response from the API\n\nFor the most up-to-date API documentation, see [cryptopia/api][cryptopia-api].\n\n[repo]: https://github.com/sigwo/node-cryptopia\n[cryptopia]: https://cryptopia.co.nz\n[cryptopia-api]: https://www.cryptopia.co.nz/Forum/Thread/255\n\n## Future Private API calls\n\nTo use Cryptopia\'s trading API, your API key and secret must be provided:\n\n    var cryptopia = new Cryptopia(\'API_KEY\', \'API_SECRET\');\n',
+491 silly resolved     readmeFilename: 'README.md',
+491 silly resolved     _id: 'node.bittrex.api@0.2.2',
+491 silly resolved     dist: { shasum: 'f1cf55f86eb16985476b14a7e55ad9bc4b2b3627' },
+491 silly resolved     _resolved: 'git://github.com/sigwo/node-cryptopia#475c2b27f82e7f59bf43f6b58605f515e1bb9e9e',
+491 silly resolved     _from: 'git://github.com/sigwo/node-cryptopia' } ]
+492 info install node.bittrex.api@0.2.2 into /home/bilaldon/Desktop/berypooler
+493 info installOne node.bittrex.api@0.2.2
+494 info /home/bilaldon/Desktop/berypooler/node_modules/node.bittrex.api unbuild
+495 verbose tar unpack /home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+496 silly lockFile 70630c80-er-node-modules-node-bittrex-api tar:///home/bilaldon/Desktop/berypooler/node_modules/node.bittrex.api
+497 verbose lock tar:///home/bilaldon/Desktop/berypooler/node_modules/node.bittrex.api /home/bilaldon/.npm/70630c80-er-node-modules-node-bittrex-api.lock
+498 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+499 verbose lock tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz /home/bilaldon/.npm/fcafa37d-de-bittrex-api-0-2-2-package-tgz.lock
+500 silly gunzTarPerm modes [ '755', '644' ]
+501 silly lockFile b49eb1ee-ypooler-node-modules-poloniex-js tar:///home/bilaldon/Desktop/berypooler/node_modules/poloniex.js
+502 silly lockFile b49eb1ee-ypooler-node-modules-poloniex-js tar:///home/bilaldon/Desktop/berypooler/node_modules/poloniex.js
+503 silly gunzTarPerm extractEntry package.json
+504 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+505 silly lockFile 5f6289ef-pm-poloniex-js-0-0-5-package-tgz tar:///home/bilaldon/.npm/poloniex.js/0.0.5/package.tgz
+506 silly gunzTarPerm extractEntry README.md
+507 silly gunzTarPerm extractEntry LICENSE
+508 info preinstall poloniex.js@0.0.5
+509 verbose readDependencies using package.json deps
+510 verbose readDependencies using package.json deps
+511 verbose cache add [ 'nonce@~1.0.3', null ]
+512 verbose cache add name=undefined spec="nonce@~1.0.3" args=["nonce@~1.0.3",null]
+513 verbose parsed url { protocol: null,
+513 verbose parsed url   slashes: null,
+513 verbose parsed url   auth: null,
+513 verbose parsed url   host: null,
+513 verbose parsed url   port: null,
+513 verbose parsed url   hostname: null,
+513 verbose parsed url   hash: null,
+513 verbose parsed url   search: null,
+513 verbose parsed url   query: null,
+513 verbose parsed url   pathname: 'nonce@~1.0.3',
+513 verbose parsed url   path: 'nonce@~1.0.3',
+513 verbose parsed url   href: 'nonce@~1.0.3' }
+514 verbose cache add name="nonce" spec="~1.0.3" args=["nonce","~1.0.3"]
+515 verbose parsed url { protocol: null,
+515 verbose parsed url   slashes: null,
+515 verbose parsed url   auth: null,
+515 verbose parsed url   host: null,
+515 verbose parsed url   port: null,
+515 verbose parsed url   hostname: null,
+515 verbose parsed url   hash: null,
+515 verbose parsed url   search: null,
+515 verbose parsed url   query: null,
+515 verbose parsed url   pathname: '~1.0.3',
+515 verbose parsed url   path: '~1.0.3',
+515 verbose parsed url   href: '~1.0.3' }
+516 verbose addNamed [ 'nonce', '~1.0.3' ]
+517 verbose addNamed [ null, '>=1.0.3-0 <1.1.0-0' ]
+518 silly lockFile 78c4f580-nonce-1-0-3 nonce@~1.0.3
+519 verbose lock nonce@~1.0.3 /home/bilaldon/.npm/78c4f580-nonce-1-0-3.lock
+520 verbose cache add [ 'request@~2.33.0', null ]
+521 verbose cache add name=undefined spec="request@~2.33.0" args=["request@~2.33.0",null]
+522 verbose parsed url { protocol: null,
+522 verbose parsed url   slashes: null,
+522 verbose parsed url   auth: null,
+522 verbose parsed url   host: null,
+522 verbose parsed url   port: null,
+522 verbose parsed url   hostname: null,
+522 verbose parsed url   hash: null,
+522 verbose parsed url   search: null,
+522 verbose parsed url   query: null,
+522 verbose parsed url   pathname: 'request@~2.33.0',
+522 verbose parsed url   path: 'request@~2.33.0',
+522 verbose parsed url   href: 'request@~2.33.0' }
+523 verbose cache add name="request" spec="~2.33.0" args=["request","~2.33.0"]
+524 verbose parsed url { protocol: null,
+524 verbose parsed url   slashes: null,
+524 verbose parsed url   auth: null,
+524 verbose parsed url   host: null,
+524 verbose parsed url   port: null,
+524 verbose parsed url   hostname: null,
+524 verbose parsed url   hash: null,
+524 verbose parsed url   search: null,
+524 verbose parsed url   query: null,
+524 verbose parsed url   pathname: '~2.33.0',
+524 verbose parsed url   path: '~2.33.0',
+524 verbose parsed url   href: '~2.33.0' }
+525 verbose addNamed [ 'request', '~2.33.0' ]
+526 verbose addNamed [ null, '>=2.33.0-0 <2.34.0-0' ]
+527 silly lockFile bc831a1d-request-2-33-0 request@~2.33.0
+528 verbose lock request@~2.33.0 /home/bilaldon/.npm/bc831a1d-request-2-33-0.lock
+529 silly gunzTarPerm extractEntry cryptopia.js
+530 silly gunzTarPerm extractEntry hmac-sha256.js
+531 silly addNameRange { name: 'nonce', range: '>=1.0.3-0 <1.1.0-0', hasData: false }
+532 silly addNameRange { name: 'request',
+532 silly addNameRange   range: '>=2.33.0-0 <2.34.0-0',
+532 silly addNameRange   hasData: false }
+533 verbose url raw nonce
+534 verbose url resolving [ 'https://registry.npmjs.org/', './nonce' ]
+535 verbose url resolved https://registry.npmjs.org/nonce
+536 info trying registry request attempt 1 at 19:50:41
+537 http GET https://registry.npmjs.org/nonce
+538 verbose url raw request
+539 verbose url resolving [ 'https://registry.npmjs.org/', './request' ]
+540 verbose url resolved https://registry.npmjs.org/request
+541 info trying registry request attempt 1 at 19:50:41
+542 http GET https://registry.npmjs.org/request
+543 silly gunzTarPerm extractEntry hmac-sha512.js
+544 silly gunzTarPerm extractEntry curlCommands.sh
+545 silly lockFile 70630c80-er-node-modules-node-bittrex-api tar:///home/bilaldon/Desktop/berypooler/node_modules/node.bittrex.api
+546 silly lockFile 70630c80-er-node-modules-node-bittrex-api tar:///home/bilaldon/Desktop/berypooler/node_modules/node.bittrex.api
+547 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+548 silly lockFile fcafa37d-de-bittrex-api-0-2-2-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.2.2/package.tgz
+549 info preinstall node.bittrex.api@0.2.2
+550 verbose readDependencies using package.json deps
+551 verbose readDependencies using package.json deps
+552 verbose cache add [ 'request@>= 2.35.0', null ]
+553 verbose cache add name=undefined spec="request@>= 2.35.0" args=["request@>= 2.35.0",null]
+554 verbose parsed url { protocol: null,
+554 verbose parsed url   slashes: null,
+554 verbose parsed url   auth: null,
+554 verbose parsed url   host: null,
+554 verbose parsed url   port: null,
+554 verbose parsed url   hostname: null,
+554 verbose parsed url   hash: null,
+554 verbose parsed url   search: null,
+554 verbose parsed url   query: null,
+554 verbose parsed url   pathname: 'request@%3E=%202.35.0',
+554 verbose parsed url   path: 'request@%3E=%202.35.0',
+554 verbose parsed url   href: 'request@%3E=%202.35.0' }
+555 verbose cache add name="request" spec=">= 2.35.0" args=["request",">= 2.35.0"]
+556 verbose parsed url { protocol: null,
+556 verbose parsed url   slashes: null,
+556 verbose parsed url   auth: null,
+556 verbose parsed url   host: null,
+556 verbose parsed url   port: null,
+556 verbose parsed url   hostname: null,
+556 verbose parsed url   hash: null,
+556 verbose parsed url   search: null,
+556 verbose parsed url   query: null,
+556 verbose parsed url   pathname: '%3E=%202.35.0',
+556 verbose parsed url   path: '%3E=%202.35.0',
+556 verbose parsed url   href: '%3E=%202.35.0' }
+557 verbose addNamed [ 'request', '>= 2.35.0' ]
+558 verbose addNamed [ null, '>=2.35.0' ]
+559 silly lockFile 797583a7-request-2-35-0 request@>= 2.35.0
+560 verbose lock request@>= 2.35.0 /home/bilaldon/.npm/797583a7-request-2-35-0.lock
+561 verbose cache add [ 'JSONStream@>= 0.8.4', null ]
+562 verbose cache add name=undefined spec="JSONStream@>= 0.8.4" args=["JSONStream@>= 0.8.4",null]
+563 verbose parsed url { protocol: null,
+563 verbose parsed url   slashes: null,
+563 verbose parsed url   auth: null,
+563 verbose parsed url   host: null,
+563 verbose parsed url   port: null,
+563 verbose parsed url   hostname: null,
+563 verbose parsed url   hash: null,
+563 verbose parsed url   search: null,
+563 verbose parsed url   query: null,
+563 verbose parsed url   pathname: 'JSONStream@%3E=%200.8.4',
+563 verbose parsed url   path: 'JSONStream@%3E=%200.8.4',
+563 verbose parsed url   href: 'JSONStream@%3E=%200.8.4' }
+564 verbose cache add name="JSONStream" spec=">= 0.8.4" args=["JSONStream",">= 0.8.4"]
+565 verbose parsed url { protocol: null,
+565 verbose parsed url   slashes: null,
+565 verbose parsed url   auth: null,
+565 verbose parsed url   host: null,
+565 verbose parsed url   port: null,
+565 verbose parsed url   hostname: null,
+565 verbose parsed url   hash: null,
+565 verbose parsed url   search: null,
+565 verbose parsed url   query: null,
+565 verbose parsed url   pathname: '%3E=%200.8.4',
+565 verbose parsed url   path: '%3E=%200.8.4',
+565 verbose parsed url   href: '%3E=%200.8.4' }
+566 verbose addNamed [ 'JSONStream', '>= 0.8.4' ]
+567 verbose addNamed [ null, '>=0.8.4' ]
+568 silly lockFile 1dd3930b-JSONStream-0-8-4 JSONStream@>= 0.8.4
+569 verbose lock JSONStream@>= 0.8.4 /home/bilaldon/.npm/1dd3930b-JSONStream-0-8-4.lock
+570 verbose cache add [ 'event-stream@>= 3.1.5', null ]
+571 verbose cache add name=undefined spec="event-stream@>= 3.1.5" args=["event-stream@>= 3.1.5",null]
+572 verbose parsed url { protocol: null,
+572 verbose parsed url   slashes: null,
+572 verbose parsed url   auth: null,
+572 verbose parsed url   host: null,
+572 verbose parsed url   port: null,
+572 verbose parsed url   hostname: null,
+572 verbose parsed url   hash: null,
+572 verbose parsed url   search: null,
+572 verbose parsed url   query: null,
+572 verbose parsed url   pathname: 'event-stream@%3E=%203.1.5',
+572 verbose parsed url   path: 'event-stream@%3E=%203.1.5',
+572 verbose parsed url   href: 'event-stream@%3E=%203.1.5' }
+573 verbose cache add name="event-stream" spec=">= 3.1.5" args=["event-stream",">= 3.1.5"]
+574 verbose parsed url { protocol: null,
+574 verbose parsed url   slashes: null,
+574 verbose parsed url   auth: null,
+574 verbose parsed url   host: null,
+574 verbose parsed url   port: null,
+574 verbose parsed url   hostname: null,
+574 verbose parsed url   hash: null,
+574 verbose parsed url   search: null,
+574 verbose parsed url   query: null,
+574 verbose parsed url   pathname: '%3E=%203.1.5',
+574 verbose parsed url   path: '%3E=%203.1.5',
+574 verbose parsed url   href: '%3E=%203.1.5' }
+575 verbose addNamed [ 'event-stream', '>= 3.1.5' ]
+576 verbose addNamed [ null, '>=3.1.5' ]
+577 silly lockFile 59aa17d5-event-stream-3-1-5 event-stream@>= 3.1.5
+578 verbose lock event-stream@>= 3.1.5 /home/bilaldon/.npm/59aa17d5-event-stream-3-1-5.lock
+579 silly addNameRange { name: 'request', range: '>=2.35.0', hasData: false }
+580 silly addNameRange { name: 'JSONStream', range: '>=0.8.4', hasData: false }
+581 verbose url raw request
+582 verbose url resolving [ 'https://registry.npmjs.org/', './request' ]
+583 verbose url resolved https://registry.npmjs.org/request
+584 info trying registry request attempt 1 at 19:50:41
+585 http GET https://registry.npmjs.org/request
+586 silly addNameRange { name: 'event-stream', range: '>=3.1.5', hasData: false }
+587 verbose url raw JSONStream
+588 verbose url resolving [ 'https://registry.npmjs.org/', './JSONStream' ]
+589 verbose url resolved https://registry.npmjs.org/JSONStream
+590 info trying registry request attempt 1 at 19:50:41
+591 http GET https://registry.npmjs.org/JSONStream
+592 verbose url raw event-stream
+593 verbose url resolving [ 'https://registry.npmjs.org/', './event-stream' ]
+594 verbose url resolved https://registry.npmjs.org/event-stream
+595 info trying registry request attempt 1 at 19:50:41
+596 http GET https://registry.npmjs.org/event-stream
+597 silly lockFile 96df91e0-1119-0-07892052340321243-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package
+598 silly lockFile 96df91e0-1119-0-07892052340321243-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package
+599 silly lockFile 832766f3-1119-0-07892052340321243-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/tmp.tgz
+600 silly lockFile 832766f3-1119-0-07892052340321243-tmp-tgz tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/tmp.tgz
+601 silly lockFile 568d8b55-41127-0-7911299951374531-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package
+602 silly lockFile 568d8b55-41127-0-7911299951374531-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441127-0.7911299951374531/package
+603 verbose tar pack [ '/home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz',
+603 verbose tar pack   '/home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package' ]
+604 verbose tarball /home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+605 verbose folder /home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package
+606 silly lockFile 96df91e0-1119-0-07892052340321243-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package
+607 verbose lock tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package /home/bilaldon/.npm/96df91e0-1119-0-07892052340321243-package.lock
+608 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+609 verbose lock tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz /home/bilaldon/.npm/c1dc1d48--merged-pooler-1-0-0-package-tgz.lock
+610 silly lockFile 8d5ed1cd-de-bittrex-api-0-6-6-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+611 silly lockFile 8d5ed1cd-de-bittrex-api-0-6-6-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+612 silly lockFile a2a34d09-m-node-bittrex-api-0-6-6-package /home/bilaldon/.npm/node.bittrex.api/0.6.6/package
+613 verbose lock /home/bilaldon/.npm/node.bittrex.api/0.6.6/package /home/bilaldon/.npm/a2a34d09-m-node-bittrex-api-0-6-6-package.lock
+614 silly lockFile a2a34d09-m-node-bittrex-api-0-6-6-package /home/bilaldon/.npm/node.bittrex.api/0.6.6/package
+615 silly lockFile a2a34d09-m-node-bittrex-api-0-6-6-package /home/bilaldon/.npm/node.bittrex.api/0.6.6/package
+616 verbose tar unpack /home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+617 silly lockFile 1d3d56a8-m-node-bittrex-api-0-6-6-package tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package
+618 verbose lock tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package /home/bilaldon/.npm/1d3d56a8-m-node-bittrex-api-0-6-6-package.lock
+619 silly lockFile 8d5ed1cd-de-bittrex-api-0-6-6-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+620 verbose lock tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz /home/bilaldon/.npm/8d5ed1cd-de-bittrex-api-0-6-6-package-tgz.lock
+621 silly gunzTarPerm modes [ '755', '644' ]
+622 silly gunzTarPerm extractEntry package.json
+623 silly gunzTarPerm extractEntry .npmignore
+624 silly gunzTarPerm extractEntry README
+625 silly gunzTarPerm extractEntry README.md
+626 silly gunzTarPerm extractEntry LICENSE
+627 silly gunzTarPerm extractEntry hmac-sha512.js
+628 silly gunzTarPerm extractEntry node.bittrex.api.js
+629 silly gunzTarPerm extractEntry examples/bittrex.examples.js
+630 silly gunzTarPerm extractEntry examples/bittrex.websockets.client.js
+631 silly gunzTarPerm extractEntry examples/bittrex.websockets.listen.example.js
+632 silly gunzTarPerm extractEntry examples/bittrex.websockets.subscribe.example.js
+633 silly gunzTarPerm extractEntry package-lock.json
+634 silly gunzTarPerm extractEntry tests/private.js
+635 silly gunzTarPerm extractEntry tests/public.js
+636 silly gunzTarPerm extractEntry tests/config_example.json
+637 silly lockFile 1d3d56a8-m-node-bittrex-api-0-6-6-package tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package
+638 silly lockFile 1d3d56a8-m-node-bittrex-api-0-6-6-package tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package
+639 silly lockFile 8d5ed1cd-de-bittrex-api-0-6-6-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+640 silly lockFile 8d5ed1cd-de-bittrex-api-0-6-6-package-tgz tar:///home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz
+641 verbose chmod /home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz 644
+642 verbose chown /home/bilaldon/.npm/node.bittrex.api/0.6.6/package.tgz [ 1000, 1000 ]
+643 silly lockFile 50ef1249-hub-com-n0mad01-node-bittrex-api git://github.com/n0mad01/node.bittrex.api
+644 silly lockFile 50ef1249-hub-com-n0mad01-node-bittrex-api git://github.com/n0mad01/node.bittrex.api
+645 silly resolved [ { name: 'node.bittrex.api',
+645 silly resolved     version: '0.6.6',
+645 silly resolved     description: 'Node Bittrex API - asynchronous node.js library for the Bittrex API https://bittrex.com/',
+645 silly resolved     keywords: [ 'btc', 'xbt', 'bitcoin', 'altcoin', 'bittrex' ],
+645 silly resolved     author: { name: 'Adrian Soluch', url: ' https://github.com/n0mad01 ' },
+645 silly resolved     contributors: [],
+645 silly resolved     license: 'MIT',
+645 silly resolved     dependencies:
+645 silly resolved      { JSONStream: '^1.3.2',
+645 silly resolved        'event-stream': '>= 3.1.5',
+645 silly resolved        jsonic: '^0.3.0',
+645 silly resolved        'object-assign': '^4.1.1',
+645 silly resolved        request: '^2.85.0',
+645 silly resolved        'signalr-client': '0.0.17' },
+645 silly resolved     repository:
+645 silly resolved      { type: 'git',
+645 silly resolved        url: 'https://github.com/n0mad01/node.bittrex.api' },
+645 silly resolved     main: 'node.bittrex.api.js',
+645 silly resolved     engines: { node: '>=0.10' },
+645 silly resolved     bugs:
+645 silly resolved      { url: 'https://github.com/n0mad01/node.bittrex.api/issues',
+645 silly resolved        email: 'adrian.soluch@gmail.com' },
+645 silly resolved     homepage: 'https://github.com/n0mad01/node.bittrex.api',
+645 silly resolved     scripts: { test: 'mocha' },
+645 silly resolved     devDependencies: { mocha: '^3.5.3' },
+645 silly resolved     readme: 'Node Bittrex API\n=========\n\nNode Bittrex API is an asynchronous node.js library for the Bittrex API - https://bittrex.com/.\nThe Bittrex API data can be received either as a GET request or via Websockets API (the Stream option will no longer be maintained and will be removed in further releases - please switch to Websockets if you want to use real Streams).\n\nDocumentation to the Bittrex API: https://bittrex.com/Home/Api\n\nThis Library was created by  [Adrian Soluch (@n0mad01)](https://github.com/n0mad01/) [soluch.us](http://soluch.us) and is licensed under the [MIT license](https://github.com/n0mad01/node.bittrex.api/blob/master/LICENSE).\n\nContributors\n----\nThanks go to the people who have contributed code to this Library.\n\n* [dparlevliet](https://github.com/dparlevliet) Special kudos - thanks to him i was able to add the Websocket API, also did he added the error object/handling param and the getcandles method for the Bittrex API V2\n* [samuelhei](https://github.com/samuelhei) Special kudos - thanks to him all missing calls are complemented as also structural improvements have been made.\n* [mhuggins](https://github.com/mhuggins)\n* [192-sean](https://github.com/192-sean)\n* [caffeinewriter](https://github.com/caffeinewriter)\n* [apense](https://github.com/apense)\n\nBefore you start\n----\nThis is just a quick reminder that you are handling coins with this library (and thus real money), so, understand the situation as much as possible and make everything to prevent losing them.\n\nHere is a small checklist you should go through before you start:\n\n1. Make sure you don\'t give your api key more rights as absolutely necessary - for first testing READ INFO alone should be enough! (bittrex.com under: Settings/API Keys)\n![bittrex_ap_keys_control](https://user-images.githubusercontent.com/260321/29748739-a6c2c00e-8b1c-11e7-95ec-1b0221348235.png)\n2. make sure to understand the API Key permissions\n    1. READ INFO - Allows you to read private details such as open orders, order history, balances, etc\n    2. TRADE LIMIT - Allows you to create/cancel trade limit buy/sell orders\n    3. TRADE MARKET - allows you to create/cancel market buy/sell orders\n    4. WITHDRAW - Allows you to withdraw to another address\n3. Make use of the Bittrex IP Whitelist as also the Withdrawal Whitelist features\n4. Do not ever commit your API Keys to GitHub or expose them under any circumstances!\n\nQuick start\n----\n```sh\n$ npm install node.bittrex.api\n```\n\n```javascript\nvar bittrex = require(\'node.bittrex.api\');\nbittrex.options({\n  \'apikey\' : API_KEY,\n  \'apisecret\' : API_SECRET,\n});\nbittrex.getmarketsummaries( function( data, err ) {\n  if (err) {\n    return console.error(err);\n  }\n  for( var i in data.result ) {\n    bittrex.getticker( { market : data.result[i].MarketName }, function( ticker ) {\n      console.log( ticker );\n    });\n  }\n});\n```\n\n\nAdvanced start\n----\n\nfetch the project via git:\n```sh\n$ git clone https://github.com/n0mad01/node.bittrex.api.git\n```\n\nthen meet the package dependencies:\n```sh\n$ cd node-bittrex-api/\n$ npm install\n```\n\ninclude node.bittrex.api.js into your project:\n```javascript\nvar bittrex = require(\'./node.bittrex.api.js\');\n```\n\n##### configure\n```javascript\nbittrex.options({\n  \'apikey\' : API_KEY,\n  \'apisecret\' : API_SECRET,\n  \'stream\' : true, // will be removed from future versions\n  \'verbose\' : true,\n  \'cleartext\' : false\n});\n```\n\nBy default the returned data is an object, in order to get clear text you have to add the option **cleartext** (streams will always return text):\n```javascript\n\'cleartext\' : true\n```\n\nThe baseUrl itself can also be set via options\n```javascript\n\'baseUrl\' : \'https://bittrex.com/api/v1\',\n\'baseUrlv2\' : \'https://bittrex.com/Api/v2.0\',\n```\n\nChange the callbacks arguments sequence\n```javascript\n\'inverse_callback_arguments\' : true,\n```\nThis simply changes the sequence in which the arguments are passed, instead of e.g.:\n```javascript\ngetmarkethistory({market : \'USDT-BTC\'}, function(data, error) {});\n```\nyou\'ll get the reversed order:\n```javascript\ngetmarkethistory({market : \'USDT-BTC\'}, function(error, data) {});\n```\n\nWebsockets\n--\nfollowing methods are implemented:\n> websockets.listen, websockets.subscribe\n\nlisten example\n```javascript\nvar websocketsclient = bittrex.websockets.listen( function( data ) {\n  if (data.M === \'updateSummaryState\') {\n    data.A.forEach(function(data_for) {\n      data_for.Deltas.forEach(function(marketsDelta) {\n        console.log(\'Ticker Update for \'+ marketsDelta.MarketName, marketsDelta);\n      });\n    });\n  }\n});\n```\n\nsubscribe example\n```javascript\nvar websocketsclient = bittrex.websockets.subscribe([\'BTC-ETH\',\'BTC-SC\',\'BTC-ZEN\'], function(data) {\n  if (data.M === \'updateExchangeState\') {\n    data.A.forEach(function(data_for) {\n      console.log(\'Market Update for \'+ data_for.MarketName, data_for);\n    });\n  }\n});\n```\n\nsimple client & redefine serviceHandlers example\n```javascript\nvar websocketsclient = bittrex.websockets.client();\n\nwebsocketsclient.serviceHandlers.reconnecting = function (message) {\n  return true; // set to true stops reconnect/retrying\n}\n\nwebsocketsclient.serviceHandlers.messageReceived = function (message) {\n  console.log(message); // the messages received must be parsed as json first e.g. via jsonic(message.utf8Data)\n}\n```\n\nall possible serviceHandlers\n```javascript\nbound: function() { console.log("Websocket bound"); },\nconnectFailed: function(error) { console.log("Websocket connectFailed: ", error); },\nconnected: function(connection) { console.log("Websocket connected"); },\ndisconnected: function() { console.log("Websocket disconnected"); },\nonerror: function (error) { console.log("Websocket onerror: ", error); },\nmessageReceived: function (message) { console.log("Websocket messageReceived: ", message); return false; },\nbindingError: function (error) { console.log("Websocket bindingError: ", error); },\nconnectionLost: function (error) { console.log("Connection Lost: ", error); },\nreconnecting: function (retry { inital: true/false, count: 0} ) {\n  console.log("Websocket Retrying: ", retry);\n  //return retry.count >= 3; // cancel retry true\n  return true;\n}\n```\n\n\nStreams - please notice that streams will be removed from future versions\n--\nTo activate Streaming simply add to your options:\n```javascript\n\'stream\' : true\n```\n\n\nExamples\n--\nAfter configuration you can use the object right away:\nexample #1\n```javascript\nbittrex.getmarketsummaries( function( data, err ) {\n  if (err) {\n    return console.error(err);\n  }\n  for( var i in data.result ) {\n    bittrex.getticker( { market : data.result[i].MarketName }, function( ticker ) {\n      console.log( ticker );\n    });\n  }\n});\n```\n\nexample #2\n```javascript\nbittrex.getbalance({ currency : \'BTC\' }, function( data, err ) {\n  if (err) {\n    return console.error(err);\n  }\n  console.log( data );\n});\n```\n\n\nLibraries\n--\n\nWebsockets depends on the following npm packages:\n- signalR websockets client https://www.npmjs.com/package/signalrjs\n- jsonic JSON parser https://www.npmjs.com/package/jsonic\n\nStreaming depends on the following npm packages (will be removed in future versions):\n- JSONStream https://www.npmjs.org/package/JSONStream\n- event-stream https://www.npmjs.org/package/event-stream\n\nOther libraries utilized:\n- request https://www.npmjs.org/package/request\n\nFor HmacSHA512 this package is using a part of Googles Crypto.js (the node crypt package could not provide any appropriate result).\n- http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/hmac-sha512.js\n\n\nError examples\n---\n\nExample of request/domain based errors (not Bittrex API error)\n```javascript\nvar url = \'http://fake.bittrex.com/api/v1.1/public/getticker?market=USDT-BTCXXX\';\nbittrex.sendCustomRequest( url, function( data, err ) {\n  if (err) {\n    /**\n      {\n        success: false,\n        message: \'URL request error\',\n        error:\n         { Error: getaddrinfo ENOTFOUND fake.bittrex.com fake.bittrex.com:80\n             at errnoException (dns.js:28:10)\n             at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)\n           code: \'ENOTFOUND\',\n           errno: \'ENOTFOUND\',\n           syscall: \'getaddrinfo\',\n           hostname: \'fake.bittrex.com\',\n           host: \'fake.bittrex.com\',\n           port: 80 },\n        result: undefined\n      }\n    */\n    return console.error(err);\n  }\n  console.log(data);\n});\n```\n\nExample of request/url based errors (not Bittrex API error)\n```javascript\nvar url = \'http://bittrex.com/api/v1.1/public/getfakeendpoint\';\nbittrex.sendCustomRequest( url, function( data, err ) {\n  if (err) {\n    /**\n      {\n        success: false,\n        message: \'URL request error\',\n        error: undefined,\n        result: {\n          statusCode: 404,\n          statusMessage: \'Not Found\',\n          body: \'<!DOCTYPE html>\\r\\n<html > ...\'\n        }\n      }\n    */\n    return console.error(err);\n  }\n  console.log(data);\n});\n```\n\nExample of Bittrex API error\n```javascript\nbittrex.getcandles({\n  marketName: \'USDT-BTC\',\n  tickInterval: 300\n}, function(data, err) {\n  if (err) {\n    /**\n      {\n        success: false,\n        message: \'INVALID_TICK_INTERVAL\',\n        result: null\n      }\n    */\n    return console.error(err);\n  }\n  console.log(data);\n});\n```\n\n\nMethods\n----\n\nOptional parameters may have to be looked up at https://bittrex.com/Home/Api.\n\n> It may happen that some Bittrex API methods are missing, also they could have been forgotten in the documentation. In this case, if this strikes you, feel free to open a issue or send me a pull request.\n\n> Also: the method **sendCustomRequest** enables completely custom requests, regardless the specific API methods.\n\n##### sendCustomRequest\n- url           String\n- callback      Function\n- credentials   Boolean     optional    whether the credentials should be applied to the request/stream or not, default is set to false.\n\nexample #1\n```javascript\nvar url = \'https://bittrex.com/api/v1.1/public/getticker?market=BTC-LTC\';\nbittrex.sendCustomRequest( url, function( data, err ) {\n  console.log( data );\n});\n```\n\nexample #2 (credentials applied to request/stream)\n```javascript\nbittrex.sendCustomRequest( \'https://bittrex.com/api/v1.1/account/getbalances?currency=BTC\', function( data, err ) {\n  console.log( data );\n}, true );\n\nwill result in (the Header is being set too):\nhttps://bittrex.com/api/v1.1/account/getbalances?currency=BTC&apikey=API_KEY&nonce=4456490600\n```\n\n##### getticker\n```javascript\nbittrex.getticker( { market : \'BTC-LTC\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getbalances\n```javascript\nbittrex.getbalances( function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getmarkethistory\n```javascript\nbittrex.getmarkethistory({ market : \'BTC-LTC\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getcandles (v2 method)\n```javascript\nbittrex.getcandles({\n  marketName: \'USDT-BTC\',\n  tickInterval: \'fiveMin\', // intervals are keywords (oneMin, fiveMin, hour, thirtyMin, Day)\n}, function( data, err ) {\n  console.log( data );\n});\n```\n##### getmarketsummaries\n```javascript\nbittrex.getmarketsummaries( function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getmarketsummary\n```javascript\nbittrex.getmarketsummary( { market : \'BTC-LTC\'}, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getorderbook\n```javascript\nbittrex.getorderbook({ market : \'BTC-LTC\', depth : 10, type : \'both\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getwithdrawalhistory\n```javascript\nbittrex.getwithdrawalhistory({ currency : \'BTC\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getdepositaddress\n```javascript\nbittrex.getdepositaddress({ currency : \'BTC\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getdeposithistory\n```javascript\nbittrex.getdeposithistory({ currency : \'BTC\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### getbalance\n```javascript\nbittrex.getbalance({ currency : \'BTC\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n##### withdraw\n```javascript\nbittrex.withdraw({ currency : \'BTC\', quantity : \'1.5112\', address : \'THE_ADDRESS\' }, function( data, err ) {\n  console.log( data );\n});\n```\n\n\nTesting\n----\n\nInstalling test gear\n```bash\nnpm install --only=dev\n```\n\nRunning all tests\n```bash\nnpm test tests\n```\n\nor individually\n```bash\nnpm test tests/public.js\nnpm test tests/private.js\n```\n\n##### Testing private methods\n\nTesting private method endpoints requires an api key/secret which should be\ninstalled in to ``tests/config.json`` - you will find an example file in\n``tests/config_example.json``.\n\n```bash\ncp tests/tests_example.json tests/config.json\nvim tests/config.json\n```\n\n\nDonations welcome!\n---\n\nBTC\n> 17gtixgt4Q8hZcSictQwj5WUdgFjegCt36\n',
+645 silly resolved     readmeFilename: 'README',
+645 silly resolved     _id: 'node.bittrex.api@0.6.6',
+645 silly resolved     dist: { shasum: '1cb5d67f9c753ba0a81cec1325265c5480b9237c' },
+645 silly resolved     _resolved: 'git://github.com/n0mad01/node.bittrex.api#63bb23c988895e3b8f08bc16903f42e2aa2a4827',
+645 silly resolved     _from: 'git://github.com/n0mad01/node.bittrex.api' } ]
+646 info install node.bittrex.api@0.6.6 into /home/bilaldon/Desktop/berypooler
+647 info installOne node.bittrex.api@0.6.6
+648 warn unmet dependency /home/bilaldon/Desktop/berypooler/node_modules/node.bittrex.api requires request@'>= 2.35.0' but will load
+648 warn unmet dependency undefined,
+648 warn unmet dependency which is version undefined
+649 warn unmet dependency /home/bilaldon/Desktop/berypooler/node_modules/poloniex.js requires nonce@'~1.0.3' but will load
+649 warn unmet dependency undefined,
+649 warn unmet dependency which is version undefined
+650 warn unmet dependency /home/bilaldon/Desktop/berypooler/node_modules/poloniex.js requires request@'~2.33.0' but will load
+650 warn unmet dependency undefined,
+650 warn unmet dependency which is version undefined
+651 silly lockFile 96df91e0-1119-0-07892052340321243-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package
+652 silly lockFile 96df91e0-1119-0-07892052340321243-package tar:///home/bilaldon/tmp/npm-31490-TmrlGlLS/1526309441119-0.07892052340321243/package
+653 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+654 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+655 silly lockFile f94a38f0--npm-merged-pooler-1-0-0-package /home/bilaldon/.npm/merged-pooler/1.0.0/package
+656 verbose lock /home/bilaldon/.npm/merged-pooler/1.0.0/package /home/bilaldon/.npm/f94a38f0--npm-merged-pooler-1-0-0-package.lock
+657 silly lockFile f94a38f0--npm-merged-pooler-1-0-0-package /home/bilaldon/.npm/merged-pooler/1.0.0/package
+658 silly lockFile f94a38f0--npm-merged-pooler-1-0-0-package /home/bilaldon/.npm/merged-pooler/1.0.0/package
+659 verbose tar unpack /home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+660 silly lockFile fe9ebba8--npm-merged-pooler-1-0-0-package tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package
+661 verbose lock tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package /home/bilaldon/.npm/fe9ebba8--npm-merged-pooler-1-0-0-package.lock
+662 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+663 verbose lock tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz /home/bilaldon/.npm/c1dc1d48--merged-pooler-1-0-0-package-tgz.lock
+664 silly gunzTarPerm modes [ '755', '644' ]
+665 silly gunzTarPerm extractEntry package.json
+666 silly gunzTarPerm extractEntry .npmignore
+667 silly gunzTarPerm extractEntry README.md
+668 silly gunzTarPerm extractEntry LICENSE
+669 silly gunzTarPerm extractEntry example.js
+670 silly gunzTarPerm extractEntry .travis.yml
+671 silly gunzTarPerm extractEntry lib/algoProperties.js
+672 silly gunzTarPerm extractEntry lib/daemon.js
+673 silly gunzTarPerm extractEntry lib/index.js
+674 silly gunzTarPerm extractEntry lib/jobManager.js
+675 silly gunzTarPerm extractEntry lib/merkleTree.js
+676 silly gunzTarPerm extractEntry lib/blockTemplate.js
+677 silly gunzTarPerm extractEntry lib/pool.js
+678 silly gunzTarPerm extractEntry lib/stratum.js
+679 silly gunzTarPerm extractEntry lib/transactions.js
+680 silly gunzTarPerm extractEntry lib/util.js
+681 silly gunzTarPerm extractEntry lib/varDiff.js
+682 silly gunzTarPerm extractEntry lib/peer.js
+683 silly lockFile fe9ebba8--npm-merged-pooler-1-0-0-package tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package
+684 silly lockFile fe9ebba8--npm-merged-pooler-1-0-0-package tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package
+685 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+686 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+687 verbose chmod /home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz 644
+688 verbose chown /home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz [ 1000, 1000 ]
+689 silly lockFile 367778ff-ithub-com-UNOMP-node-merged-pool git://github.com/UNOMP/node-merged-pool
+690 silly lockFile 367778ff-ithub-com-UNOMP-node-merged-pool git://github.com/UNOMP/node-merged-pool
+691 silly resolved [ { name: 'merged-pooler',
+691 silly resolved     version: '1.0.0',
+691 silly resolved     description: 'High performance Stratum poolserver in Node.js for merged mining',
+691 silly resolved     keywords:
+691 silly resolved      [ 'stratum',
+691 silly resolved        'merged',
+691 silly resolved        'mining',
+691 silly resolved        'pool',
+691 silly resolved        'server',
+691 silly resolved        'poolserver',
+691 silly resolved        'bitcoin',
+691 silly resolved        'litecoin',
+691 silly resolved        'scrypt',
+691 silly resolved        'multipool',
+691 silly resolved        'multicoin' ],
+691 silly resolved     homepage: 'https://github.com/UNOMP/node-merged-pool',
+691 silly resolved     bugs: { url: 'https://github.com/UNOMP/node-merged-pool/issues' },
+691 silly resolved     license: 'GPL-2.0',
+691 silly resolved     author: { name: 'Daniel Beal' },
+691 silly resolved     contributors: [ [Object], [Object], [Object], [Object], [Object] ],
+691 silly resolved     main: 'lib/index.js',
+691 silly resolved     repository:
+691 silly resolved      { type: 'git',
+691 silly resolved        url: 'https://github.com/UNOMP/node-merged-pool.git' },
+691 silly resolved     dependencies:
+691 silly resolved      { 'unomp-multi-hashing': '*',
+691 silly resolved        bignum: '*',
+691 silly resolved        'base58-native': '*',
+691 silly resolved        async: '*',
+691 silly resolved        redis: '*' },
+691 silly resolved     engines: { node: '>=0.10' },
+691 silly resolved     readme: 'High performance Stratum poolserver in Node.js. One instance of this software can startup and manage multiple coin\npools, each with their own daemon and stratum ports :)\n\nThis software has been modefied for merged mining. It is still in development.\n\n#### Notice\nThis is a module for Node.js that will do nothing on its own. Unless you\'re a Node.js developer who would like to\nhandle stratum authentication and raw share data then this module will not be of use to you.\n\n#### Why\nThis server was built to be more efficient and easier to setup, maintain and scale than existing stratum poolservers\nwhich are written in python. Compared to the spaghetti state of the latest\n[stratum-mining python server](https://github.com/Crypto-Expert/stratum-mining/), this software should also have a\nlower barrier to entry for other developers to fork and add features or fix bugs.\n\n\nFeatures\n----------------------------------\n* Merged Mining Support\n* Daemon RPC interface\n* Stratum TCP socket server\n* Block template / job manager\n* P2P to get block notifications as peer node\n* Optimized generation transaction building\n* Connecting to multiple daemons for redundancy\n* Process share submissions\n* Session managing for purging DDoS/flood initiated zombie workers\n* Auto ban IPs that are flooding with invalid shares\n* __POW__ (proof-of-work) & __POS__ (proof-of-stake) support\n* Transaction messages support\n* Vardiff (variable difficulty / share limiter)\n* When started with a coin daemon that hasn\'t finished syncing to the network it shows the blockchain download progress and initializes once synced\n\n#### Hashing algorithms supported:\n* ✓ __SHA256__ (Bitcoin, Peercoin/PPCoin, Terracoin, etc..)(I\'ve gotten reports Freicoin is not working)\n* ✓ __Scrypt__ (Litecoin, Dogecoin, Feathercoin, etc..)\n* ✓ __Scrypt-Jane__ (YaCoin, CopperBars, Pennies, Tickets, etc..)\n* ✓ __Scrypt-N__ (Vertcoin [VTC])\n* ✓ __Quark__ (Quarkcoin [QRK])\n* ✓ __X11__ (Darkcoin [DRK], Hirocoin, Limecoin)\n* ✓ __X13__ (MaruCoin, BoostCoin)\n* ✓ __NIST5__ (Talkcoin)\n* ✓ __Keccak__ (Maxcoin [MAX], HelixCoin, CryptoMeth, Galleon, 365coin, Slothcoin, BitcointalkCoin)\n* ✓ __Skein__ (Skeincoin [SKC])\n* ✓ __Groestl__ (Groestlcoin [GRS])\n\nMay be working (needs additional testing):\n* ? *Blake* (Blakecoin [BLC])\n* ? *Fugue* (Fuguecoin [FC])\n* ? *Qubit* (Qubitcoin [Q2C], Myriadcoin [MYR])\n* ? *SHAvite-3* (INKcoin [INK])\n* ? *Sha1* (Sha1coin [SHA], Yaycoin [YAY])\n\nNot working currently:\n* *Groestl* - for Myriadcoin\n* *Keccak* - for eCoin & Copperlark\n* *Hefty1* (Heavycoin [HVC])\n\n\nRequirements\n------------\n* node v0.12+\n* coin daemon for primay and auxillery coins (preferably one with a relatively updated API and not some crapcoin :p)\n\n\nExample Usage\n-------------\n\n#### Install as a node module by cloning repository\n\n```bash\ngit clone https://github.com/KillerByte/node-stratum-pool node_modules/stratum-pool\nnpm update\n```\n\n#### Module usage\n\nCreate the configuration for your coin:\n\nPossible options for `algorithm`: *sha256, scrypt, scrypt-jane, scrypt-n, quark, x11, keccak, blake,\nskein, groestl, fugue, shavite3, hefty1, qubit, or sha1*.\n\n```javascript\nvar myCoin = {\n    "name": "Dogecoin",\n    "symbol": "DOGE",\n    "algorithm": "scrypt",\n    "nValue": 1024, //optional - defaults to 1024\n    "rValue": 1, //optional - defaults to 1\n    "txMessages": false, //optional - defaults to false,\n    "getblocktemplate": "POS", //optional - Used for POS coins with the old getblocktemplate parameters\n    "reward": "POS", //optional - Used for hybrid POW/POS coins\n\n    /* Magic value only required for setting up p2p block notifications. It is found in the daemon\n       source code as the pchMessageStart variable.\n       For example, litecoin mainnet magic: http://git.io/Bi8YFw\n       And for litecoin testnet magic: http://git.io/NXBYJA */\n     "peerMagic": "fbc0b6db" //optional\n     "peerMagicTestnet": "fcc1b7dc" //optional\n};\n```\n\nIf you are using the `scrypt-jane` algorithm there are additional configurations:\n\n```javascript\nvar myCoin = {\n    "name": "Freecoin",\n    "symbol": "FEC",\n    "algorithm": "scrypt-jane",\n    "chainStartTime": 1375801200, //defaults to 1367991200 (YACoin) if not used\n    "nMin": 6, //defaults to 4 if not used\n    "nMax": 32 //defaults to 30 if not used\n};\n```\n\nIf you are using the `scrypt-n` algorithm there is an additional configuration:\n```javascript\nvar myCoin = {\n    "name": "Execoin",\n    "symbol": "EXE",\n    "algorithm": "scrypt-n",\n    /* This defaults to Vertcoin\'s timetable if not used. It is required for scrypt-n coins that\n       have modified their N-factor timetable to be different than Vertcoin\'s. */\n    "timeTable": {\n        "2048": 1390959880,\n        "4096": 1438295269,\n        "8192": 1485630658,\n        "16384": 1532966047,\n        "32768": 1580301436,\n        "65536": 1627636825,\n        "131072": 1674972214,\n        "262144": 1722307603\n    }\n};\n```\n\nIf you are using the `keccak` algorithm there are additional configurations *(The rare `normalHashing` keccak coins\nsuch as Copperlark and eCoin don\'t appear to work yet - only the popular ones like Maxcoin are)*:\n```javascript\nvar myCoin = {\n    "name": "eCoin",\n    "symbol": "ECN",\n    "algorithm": "keccak",\n\n    /* This is not required and set to false by default. Some coins such as Copperlark and eCoin\n       require it to be set to true. Maxcoin and most others are false. */\n    "normalHashing": true\n};\n```\n\n\nCreate and start new pool with configuration options and authentication function\n\n```javascript\nvar Stratum = require(\'stratum-pool\');\n\nvar pool = Stratum.createPool({\n\n    "coin": myCoin,\n\n    "address": "mi4iBXbBsydtcc5yFmsff2zCFVX4XG7qJc", //Address to where block rewards are given\n\n    /* Block rewards go to the configured pool wallet address to later be paid out to miners,\n       except for a percentage that can go to, for examples, pool operator(s) as pool fees or\n       or to donations address. Addresses or hashed public keys can be used. Here is an example\n       of rewards going to the main pool op, a pool co-owner, and NOMP donation. */\n    "rewardRecipients": {\n        "n37vuNFkXfk15uFnGoVyHZ6PYQxppD3QqK": 1.5, //1.5% goes to pool op\n        "mirj3LtZxbSTharhtXvotqtJXUY7ki5qfx": 0.5, //0.5% goes to a pool co-owner\n\n        /* 0.1% donation to NOMP. This pubkey can accept any type of coin, please leave this in\n           your config to help support NOMP development. */\n        "22851477d63a085dbc2398c8430af1c09e7343f6": 0.1\n    },\n\n    "blockRefreshInterval": 1000, //How often to poll RPC daemons for new blocks, in milliseconds\n\n\n    /* Some miner apps will consider the pool dead/offline if it doesn\'t receive anything new jobs\n       for around a minute, so every time we broadcast jobs, set a timeout to rebroadcast\n       in this many seconds unless we find a new job. Set to zero or remove to disable this. */\n    "jobRebroadcastTimeout": 55,\n\n    //instanceId: 37, //Recommend not using this because a crypto-random one will be generated\n\n    /* Some attackers will create thousands of workers that use up all available socket connections,\n       usually the workers are zombies and don\'t submit shares after connecting. This features\n       detects those and disconnects them. */\n    "connectionTimeout": 600, //Remove workers that haven\'t been in contact for this many seconds\n\n    /* Sometimes you want the block hashes even for shares that aren\'t block candidates. */\n    "emitInvalidBlockHashes": false,\n\n    /* Enable for client IP addresses to be detected when using a load balancer with TCP proxy\n       protocol enabled, such as HAProxy with \'send-proxy\' param:\n       http://haproxy.1wt.eu/download/1.5/doc/configuration.txt */\n    "tcpProxyProtocol": false,\n\n    /* If a worker is submitting a high threshold of invalid shares we can temporarily ban their IP\n       to reduce system/network load. Also useful to fight against flooding attacks. If running\n       behind something like HAProxy be sure to enable \'tcpProxyProtocol\', otherwise you\'ll end up\n       banning your own IP address (and therefore all workers). */\n    "banning": {\n        "enabled": true,\n        "time": 600, //How many seconds to ban worker for\n        "invalidPercent": 50, //What percent of invalid shares triggers ban\n        "checkThreshold": 500, //Check invalid percent when this many shares have been submitted\n        "purgeInterval": 300 //Every this many seconds clear out the list of old bans\n    },\n\n    /* Each pool can have as many ports for your miners to connect to as you wish. Each port can\n       be configured to use its own pool difficulty and variable difficulty settings. varDiff is\n       optional and will only be used for the ports you configure it for. */\n    "ports": {\n        "3032": { //A port for your miners to connect to\n            "diff": 32, //the pool difficulty for this port\n\n            /* Variable difficulty is a feature that will automatically adjust difficulty for\n               individual miners based on their hashrate in order to lower networking overhead */\n            "varDiff": {\n                "minDiff": 8, //Minimum difficulty\n                "maxDiff": 512, //Network difficulty will be used if it is lower than this\n                "targetTime": 15, //Try to get 1 share per this many seconds\n                "retargetTime": 90, //Check to see if we should retarget every this many seconds\n                "variancePercent": 30 //Allow time to very this % from target without retargeting\n            }\n        },\n        "3256": { //Another port for your miners to connect to, this port does not use varDiff\n            "diff": 256 //The pool difficulty\n        }\n    },\n\n    /* Recommended to have at least two daemon instances running in case one drops out-of-sync\n       or offline. For redundancy, all instances will be polled for block/transaction updates\n       and be used for submitting blocks. Creating a backup daemon involves spawning a daemon\n       using the "-datadir=/backup" argument which creates a new daemon instance with it\'s own\n       RPC config. For more info on this see:\n          - https://en.bitcoin.it/wiki/Data_directory\n          - https://en.bitcoin.it/wiki/Running_bitcoind */\n    "daemons": [\n        {   //Main daemon instance\n            "host": "127.0.0.1",\n            "port": 19332,\n            "user": "litecoinrpc",\n            "password": "testnet"\n        },\n        {   //Backup daemon instance\n            "host": "127.0.0.1",\n            "port": 19344,\n            "user": "litecoinrpc",\n            "password": "testnet"\n        }\n    ],\n\n\n    /* This allows the pool to connect to the daemon as a node peer to receive block updates.\n       It may be the most efficient way to get block updates (faster than polling, less\n       intensive than blocknotify script). It requires the additional field "peerMagic" in\n       the coin config. */\n    "p2p": {\n        "enabled": false,\n\n        /* Host for daemon */\n        "host": "127.0.0.1",\n\n        /* Port configured for daemon (this is the actual peer port not RPC port) */\n        "port": 19333,\n\n        /* If your coin daemon is new enough (i.e. not a shitcoin) then it will support a p2p\n           feature that prevents the daemon from spamming our peer node with unnecessary\n           transaction data. Assume its supported but if you have problems try disabling it. */\n        "disableTransactions": true\n\n    }\n\n}, function(ip, port , workerName, password, callback){ //stratum authorization function\n    console.log("Authorize " + workerName + ":" + password + "@" + ip);\n    callback({\n        error: null,\n        authorized: true,\n        disconnect: false\n    });\n});\n```\n\n\nListen to pool events\n```javascript\n/*\n\n\'data\' object contains:\n    job: 4, //stratum work job ID\n    ip: \'71.33.19.37\', //ip address of client\n    port: 3333, //port of the client\n    worker: \'matt.worker1\', //stratum worker name\n    height: 443795, //block height\n    blockReward: 5000000000, //the number of satoshis received as payment for solving this block\n    difficulty: 64, //stratum worker difficulty\n    shareDiff: 78, //actual difficulty of the share\n    blockDiff: 3349, //block difficulty adjusted for share padding\n    blockDiffActual: 3349 //actual difficulty for this block\n\n\n    //AKA the block solution - set if block was found\n    blockHash: \'110c0447171ad819dd181216d5d80f41e9218e25d833a2789cb8ba289a52eee4\',\n\n    //Exists if "emitInvalidBlockHashes" is set to true\n    blockHashInvalid: \'110c0447171ad819dd181216d5d80f41e9218e25d833a2789cb8ba289a52eee4\'\n\n    //txHash is the coinbase transaction hash from the block\n    txHash: \'41bb22d6cc409f9c0bae2c39cecd2b3e3e1be213754f23d12c5d6d2003d59b1d,\n\n    error: \'low share difficulty\' //set if share is rejected for some reason\n*/\npool.on(\'share\', function(isValidShare, isValidBlock, data){\n\n    if (isValidBlock)\n        console.log(\'Block found\');\n    else if (isValidShare)\n        console.log(\'Valid share submitted\');\n    else if (data.blockHash)\n        console.log(\'We thought a block was found but it was rejected by the daemon\');\n    else\n        console.log(\'Invalid share submitted\')\n\n    console.log(\'share data: \' + JSON.stringify(data));\n});\n\n\n\n/*\n\'severity\': can be \'debug\', \'warning\', \'error\'\n\'logKey\':   can be \'system\' or \'client\' indicating if the error\n            was caused by our system or a stratum client\n*/\npool.on(\'log\', function(severity, logKey, logText){\n    console.log(severity + \': \' + \'[\' + logKey + \'] \' + logText);\n});\n```\n\nStart pool\n```javascript\npool.start();\n```\n\n\nCredits\n-------\n* [zone117x](//github.com/zone117x) - Head developer of the original stratum mining pool for node.js\n* [vekexasia](//github.com/vekexasia) - co-developer & great tester\n* [LucasJones](//github.com/LucasJones) - got p2p block notify working and implemented additional hashing algos\n* [TheSeven](//github.com/TheSeven) - answering an absurd amount of my questions, found the block 1-16 problem, provided example code for peer node functionality\n* [pronooob](https://dogehouse.org) - knowledgeable & helpful\n* [Slush0](//github.com/slush0/stratum-mining) - stratum protocol, documentation and original python code\n* [viperaus](//github.com/viperaus/stratum-mining) - scrypt adaptions to python code\n* [ahmedbodi](//github.com/ahmedbodi/stratum-mining) - more algo adaptions to python code\n* [steveshit](//github.com/steveshit) - ported X11 hashing algo from python to node module\n\n\nDonations\n---------\nTo support development of this project to the original author (zone117x), feel free to donate :)\n\n* BTC: `1KRotMnQpxu3sePQnsVLRy3EraRFYfJQFR`\n* LTC: `LKfavSDJmwiFdcgaP1bbu46hhyiWw5oFhE`\n* VTC: `VgW4uFTZcimMSvcnE4cwS3bjJ6P8bcTykN`\n* MAX: `mWexUXRCX5PWBmfh34p11wzS5WX2VWvTRT`\n* QRK: `QehPDAhzVQWPwDPQvmn7iT3PoFUGT7o8bC`\n* DRK: `XcQmhp8ANR7okWAuArcNFZ2bHSB81jpapQ`\n* DOGE: `DBGGVtwAAit1NPZpRm5Nz9VUFErcvVvHYW`\n* Cryptsy Trade Key: `254ca13444be14937b36c44ba29160bd8f02ff76`\n\nLicense\n-------\nReleased under the GNU General Public License v2\n\nhttp://www.gnu.org/licenses/gpl-2.0.html\n',
+691 silly resolved     readmeFilename: 'README.md',
+691 silly resolved     _id: 'merged-pooler@1.0.0',
+691 silly resolved     dist: { shasum: '623c562c70c6561c13052bb046aea799c70adc30' },
+691 silly resolved     _resolved: 'git://github.com/UNOMP/node-merged-pool#408bf596be5ef03d62eb173fc449c5f87b3a604b',
+691 silly resolved     _from: 'git://github.com/UNOMP/node-merged-pool' } ]
+692 info install merged-pooler@1.0.0 into /home/bilaldon/Desktop/berypooler
+693 info installOne merged-pooler@1.0.0
+694 info /home/bilaldon/Desktop/berypooler/node_modules/merged-pooler unbuild
+695 verbose tar unpack /home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+696 silly lockFile c4fab602-ooler-node-modules-merged-pooler tar:///home/bilaldon/Desktop/berypooler/node_modules/merged-pooler
+697 verbose lock tar:///home/bilaldon/Desktop/berypooler/node_modules/merged-pooler /home/bilaldon/.npm/c4fab602-ooler-node-modules-merged-pooler.lock
+698 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+699 verbose lock tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz /home/bilaldon/.npm/c1dc1d48--merged-pooler-1-0-0-package-tgz.lock
+700 silly gunzTarPerm modes [ '755', '644' ]
+701 silly gunzTarPerm extractEntry package.json
+702 silly gunzTarPerm extractEntry .npmignore
+703 silly gunzTarPerm extractEntry README.md
+704 silly gunzTarPerm extractEntry LICENSE
+705 silly gunzTarPerm extractEntry example.js
+706 silly gunzTarPerm extractEntry .travis.yml
+707 silly gunzTarPerm extractEntry lib/algoProperties.js
+708 silly gunzTarPerm extractEntry lib/daemon.js
+709 silly gunzTarPerm extractEntry lib/index.js
+710 silly gunzTarPerm extractEntry lib/jobManager.js
+711 silly gunzTarPerm extractEntry lib/merkleTree.js
+712 silly gunzTarPerm extractEntry lib/blockTemplate.js
+713 silly gunzTarPerm extractEntry lib/pool.js
+714 silly gunzTarPerm extractEntry lib/stratum.js
+715 silly gunzTarPerm extractEntry lib/transactions.js
+716 silly gunzTarPerm extractEntry lib/util.js
+717 silly gunzTarPerm extractEntry lib/varDiff.js
+718 silly gunzTarPerm extractEntry lib/peer.js
+719 silly lockFile c4fab602-ooler-node-modules-merged-pooler tar:///home/bilaldon/Desktop/berypooler/node_modules/merged-pooler
+720 silly lockFile c4fab602-ooler-node-modules-merged-pooler tar:///home/bilaldon/Desktop/berypooler/node_modules/merged-pooler
+721 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+722 silly lockFile c1dc1d48--merged-pooler-1-0-0-package-tgz tar:///home/bilaldon/.npm/merged-pooler/1.0.0/package.tgz
+723 info preinstall merged-pooler@1.0.0
+724 verbose readDependencies using package.json deps
+725 verbose readDependencies using package.json deps
+726 verbose cache add [ 'unomp-multi-hashing@*', null ]
+727 verbose cache add name=undefined spec="unomp-multi-hashing@*" args=["unomp-multi-hashing@*",null]
+728 verbose parsed url { protocol: null,
+728 verbose parsed url   slashes: null,
+728 verbose parsed url   auth: null,
+728 verbose parsed url   host: null,
+728 verbose parsed url   port: null,
+728 verbose parsed url   hostname: null,
+728 verbose parsed url   hash: null,
+728 verbose parsed url   search: null,
+728 verbose parsed url   query: null,
+728 verbose parsed url   pathname: 'unomp-multi-hashing@*',
+728 verbose parsed url   path: 'unomp-multi-hashing@*',
+728 verbose parsed url   href: 'unomp-multi-hashing@*' }
+729 verbose cache add name="unomp-multi-hashing" spec="*" args=["unomp-multi-hashing","*"]
+730 verbose parsed url { protocol: null,
+730 verbose parsed url   slashes: null,
+730 verbose parsed url   auth: null,
+730 verbose parsed url   host: null,
+730 verbose parsed url   port: null,
+730 verbose parsed url   hostname: null,
+730 verbose parsed url   hash: null,
+730 verbose parsed url   search: null,
+730 verbose parsed url   query: null,
+730 verbose parsed url   pathname: '*',
+730 verbose parsed url   path: '*',
+730 verbose parsed url   href: '*' }
+731 verbose addNamed [ 'unomp-multi-hashing', '*' ]
+732 verbose addNamed [ null, '*' ]
+733 silly lockFile 10626058-unomp-multi-hashing unomp-multi-hashing@*
+734 verbose lock unomp-multi-hashing@* /home/bilaldon/.npm/10626058-unomp-multi-hashing.lock
+735 verbose cache add [ 'bignum@*', null ]
+736 verbose cache add name=undefined spec="bignum@*" args=["bignum@*",null]
+737 verbose parsed url { protocol: null,
+737 verbose parsed url   slashes: null,
+737 verbose parsed url   auth: null,
+737 verbose parsed url   host: null,
+737 verbose parsed url   port: null,
+737 verbose parsed url   hostname: null,
+737 verbose parsed url   hash: null,
+737 verbose parsed url   search: null,
+737 verbose parsed url   query: null,
+737 verbose parsed url   pathname: 'bignum@*',
+737 verbose parsed url   path: 'bignum@*',
+737 verbose parsed url   href: 'bignum@*' }
+738 verbose cache add name="bignum" spec="*" args=["bignum","*"]
+739 verbose parsed url { protocol: null,
+739 verbose parsed url   slashes: null,
+739 verbose parsed url   auth: null,
+739 verbose parsed url   host: null,
+739 verbose parsed url   port: null,
+739 verbose parsed url   hostname: null,
+739 verbose parsed url   hash: null,
+739 verbose parsed url   search: null,
+739 verbose parsed url   query: null,
+739 verbose parsed url   pathname: '*',
+739 verbose parsed url   path: '*',
+739 verbose parsed url   href: '*' }
+740 verbose addNamed [ 'bignum', '*' ]
+741 verbose addNamed [ null, '*' ]
+742 silly lockFile 4cd92728-bignum bignum@*
+743 verbose lock bignum@* /home/bilaldon/.npm/4cd92728-bignum.lock
+744 verbose cache add [ 'base58-native@*', null ]
+745 verbose cache add name=undefined spec="base58-native@*" args=["base58-native@*",null]
+746 verbose parsed url { protocol: null,
+746 verbose parsed url   slashes: null,
+746 verbose parsed url   auth: null,
+746 verbose parsed url   host: null,
+746 verbose parsed url   port: null,
+746 verbose parsed url   hostname: null,
+746 verbose parsed url   hash: null,
+746 verbose parsed url   search: null,
+746 verbose parsed url   query: null,
+746 verbose parsed url   pathname: 'base58-native@*',
+746 verbose parsed url   path: 'base58-native@*',
+746 verbose parsed url   href: 'base58-native@*' }
+747 verbose cache add name="base58-native" spec="*" args=["base58-native","*"]
+748 verbose parsed url { protocol: null,
+748 verbose parsed url   slashes: null,
+748 verbose parsed url   auth: null,
+748 verbose parsed url   host: null,
+748 verbose parsed url   port: null,
+748 verbose parsed url   hostname: null,
+748 verbose parsed url   hash: null,
+748 verbose parsed url   search: null,
+748 verbose parsed url   query: null,
+748 verbose parsed url   pathname: '*',
+748 verbose parsed url   path: '*',
+748 verbose parsed url   href: '*' }
+749 verbose addNamed [ 'base58-native', '*' ]
+750 verbose addNamed [ null, '*' ]
+751 silly lockFile 1f9d483c-base58-native base58-native@*
+752 verbose lock base58-native@* /home/bilaldon/.npm/1f9d483c-base58-native.lock
+753 silly addNameRange { name: 'unomp-multi-hashing', range: '*', hasData: false }
+754 verbose cache add [ 'async@*', null ]
+755 verbose cache add name=undefined spec="async@*" args=["async@*",null]
+756 verbose parsed url { protocol: null,
+756 verbose parsed url   slashes: null,
+756 verbose parsed url   auth: null,
+756 verbose parsed url   host: null,
+756 verbose parsed url   port: null,
+756 verbose parsed url   hostname: null,
+756 verbose parsed url   hash: null,
+756 verbose parsed url   search: null,
+756 verbose parsed url   query: null,
+756 verbose parsed url   pathname: 'async@*',
+756 verbose parsed url   path: 'async@*',
+756 verbose parsed url   href: 'async@*' }
+757 verbose cache add name="async" spec="*" args=["async","*"]
+758 verbose parsed url { protocol: null,
+758 verbose parsed url   slashes: null,
+758 verbose parsed url   auth: null,
+758 verbose parsed url   host: null,
+758 verbose parsed url   port: null,
+758 verbose parsed url   hostname: null,
+758 verbose parsed url   hash: null,
+758 verbose parsed url   search: null,
+758 verbose parsed url   query: null,
+758 verbose parsed url   pathname: '*',
+758 verbose parsed url   path: '*',
+758 verbose parsed url   href: '*' }
+759 verbose addNamed [ 'async', '*' ]
+760 verbose addNamed [ null, '*' ]
+761 silly lockFile 827e99f9-async async@*
+762 verbose lock async@* /home/bilaldon/.npm/827e99f9-async.lock
+763 silly addNameRange { name: 'bignum', range: '*', hasData: false }
+764 verbose url raw unomp-multi-hashing
+765 verbose url resolving [ 'https://registry.npmjs.org/', './unomp-multi-hashing' ]
+766 verbose url resolved https://registry.npmjs.org/unomp-multi-hashing
+767 info trying registry request attempt 1 at 19:50:41
+768 http GET https://registry.npmjs.org/unomp-multi-hashing
+769 verbose cache add [ 'redis@*', null ]
+770 verbose cache add name=undefined spec="redis@*" args=["redis@*",null]
+771 verbose parsed url { protocol: null,
+771 verbose parsed url   slashes: null,
+771 verbose parsed url   auth: null,
+771 verbose parsed url   host: null,
+771 verbose parsed url   port: null,
+771 verbose parsed url   hostname: null,
+771 verbose parsed url   hash: null,
+771 verbose parsed url   search: null,
+771 verbose parsed url   query: null,
+771 verbose parsed url   pathname: 'redis@*',
+771 verbose parsed url   path: 'redis@*',
+771 verbose parsed url   href: 'redis@*' }
+772 verbose cache add name="redis" spec="*" args=["redis","*"]
+773 verbose parsed url { protocol: null,
+773 verbose parsed url   slashes: null,
+773 verbose parsed url   auth: null,
+773 verbose parsed url   host: null,
+773 verbose parsed url   port: null,
+773 verbose parsed url   hostname: null,
+773 verbose parsed url   hash: null,
+773 verbose parsed url   search: null,
+773 verbose parsed url   query: null,
+773 verbose parsed url   pathname: '*',
+773 verbose parsed url   path: '*',
+773 verbose parsed url   href: '*' }
+774 verbose addNamed [ 'redis', '*' ]
+775 verbose addNamed [ null, '*' ]
+776 silly lockFile 2a89b302-redis redis@*
+777 verbose lock redis@* /home/bilaldon/.npm/2a89b302-redis.lock
+778 silly addNameRange { name: 'base58-native', range: '*', hasData: false }
+779 verbose url raw bignum
+780 verbose url resolving [ 'https://registry.npmjs.org/', './bignum' ]
+781 verbose url resolved https://registry.npmjs.org/bignum
+782 info trying registry request attempt 1 at 19:50:41
+783 http GET https://registry.npmjs.org/bignum
+784 silly addNameRange { name: 'async', range: '*', hasData: false }
+785 verbose url raw base58-native
+786 verbose url resolving [ 'https://registry.npmjs.org/', './base58-native' ]
+787 verbose url resolved https://registry.npmjs.org/base58-native
+788 info trying registry request attempt 1 at 19:50:41
+789 http GET https://registry.npmjs.org/base58-native
+790 silly addNameRange { name: 'redis', range: '*', hasData: false }
+791 verbose url raw async
+792 verbose url resolving [ 'https://registry.npmjs.org/', './async' ]
+793 verbose url resolved https://registry.npmjs.org/async
+794 info trying registry request attempt 1 at 19:50:41
+795 http GET https://registry.npmjs.org/async
+796 verbose url raw redis
+797 verbose url resolving [ 'https://registry.npmjs.org/', './redis' ]
+798 verbose url resolved https://registry.npmjs.org/redis
+799 info trying registry request attempt 1 at 19:50:41
+800 http GET https://registry.npmjs.org/redis
+801 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+802 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+803 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+804 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+805 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+806 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+807 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+808 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+809 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+810 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+811 info trying registry request attempt 2 at 19:50:51
+812 http GET https://registry.npmjs.org/request
+813 info trying registry request attempt 2 at 19:50:51
+814 http GET https://registry.npmjs.org/event-stream
+815 info trying registry request attempt 2 at 19:50:51
+816 http GET https://registry.npmjs.org/request
+817 info trying registry request attempt 2 at 19:50:52
+818 http GET https://registry.npmjs.org/nonce
+819 info trying registry request attempt 2 at 19:50:52
+820 http GET https://registry.npmjs.org/bignum
+821 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+822 info trying registry request attempt 2 at 19:50:52
+823 http GET https://registry.npmjs.org/async
+824 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+825 info trying registry request attempt 2 at 19:50:52
+826 http GET https://registry.npmjs.org/unomp-multi-hashing
+827 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+828 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+829 info trying registry request attempt 2 at 19:50:52
+830 http GET https://registry.npmjs.org/JSONStream
+831 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+832 info trying registry request attempt 2 at 19:50:53
+833 http GET https://registry.npmjs.org/redis
+834 info trying registry request attempt 2 at 19:50:53
+835 http GET https://registry.npmjs.org/base58-native
+836 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+837 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+838 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+839 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+840 info retry will retry, error on last attempt: Error: CERT_UNTRUSTED
+841 info trying registry request attempt 3 at 19:51:52
+842 http GET https://registry.npmjs.org/request
+843 info trying registry request attempt 3 at 19:51:52
+844 http GET https://registry.npmjs.org/request
+845 info trying registry request attempt 3 at 19:51:52
+846 http GET https://registry.npmjs.org/event-stream
+847 info trying registry request attempt 3 at 19:51:52
+848 http GET https://registry.npmjs.org/nonce
+849 info trying registry request attempt 3 at 19:51:52
+850 http GET https://registry.npmjs.org/bignum
+851 info trying registry request attempt 3 at 19:51:53
+852 http GET https://registry.npmjs.org/async
+853 info trying registry request attempt 3 at 19:51:53
+854 http GET https://registry.npmjs.org/unomp-multi-hashing
+855 info trying registry request attempt 3 at 19:51:53
+856 http GET https://registry.npmjs.org/JSONStream
+857 silly lockFile bc831a1d-request-2-33-0 request@~2.33.0
+858 silly lockFile bc831a1d-request-2-33-0 request@~2.33.0
+859 verbose about to build /home/bilaldon/Desktop/berypooler/node_modules/poloniex.js
+860 info /home/bilaldon/Desktop/berypooler/node_modules/poloniex.js unbuild
+861 info preuninstall poloniex.js@0.0.5
+862 info uninstall poloniex.js@0.0.5
+863 verbose true,/home/bilaldon/Desktop/berypooler/node_modules,/home/bilaldon/Desktop/berypooler/node_modules unbuild poloniex.js@0.0.5
+864 info postuninstall poloniex.js@0.0.5
+865 error Error: CERT_UNTRUSTED
+865 error     at SecurePair.<anonymous> (tls.js:1370:32)
+865 error     at SecurePair.EventEmitter.emit (events.js:92:17)
+865 error     at SecurePair.maybeInitFinished (tls.js:982:10)
+865 error     at CleartextStream.read [as _read] (tls.js:469:13)
+865 error     at CleartextStream.Readable.read (_stream_readable.js:320:10)
+865 error     at EncryptedStream.write [as _write] (tls.js:366:25)
+865 error     at doWrite (_stream_writable.js:223:10)
+865 error     at writeOrBuffer (_stream_writable.js:213:5)
+865 error     at EncryptedStream.Writable.write (_stream_writable.js:180:11)
+865 error     at write (_stream_readable.js:583:24)
+865 error     at flow (_stream_readable.js:592:7)
+865 error     at Socket.pipeOnReadable (_stream_readable.js:624:5)
+866 error If you need help, you may report this *entire* log,
+866 error including the npm and node versions, at:
+866 error     <http://github.com/isaacs/npm/issues>
+867 error System Linux 4.13.0-41-generic
+868 error command "/home/bilaldon/.nvm/v0.10.25/bin/node" "/home/bilaldon/.nvm/v0.10.25/bin/npm" "update"
+869 error cwd /home/bilaldon/Desktop/berypooler
+870 error node -v v0.10.25
+871 error npm -v 1.3.24
+872 verbose exit [ 1, true ]
