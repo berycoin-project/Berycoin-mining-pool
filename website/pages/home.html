@@ -1,4 +1,118 @@
 <div class="row">
+  {{ for(var algo in it.stats.algos) { }}
+  <div class="col-lg-3 col-sm-6">
+                <div class="card card-stats">
+                    <div class="card-body ">
+                        <div class="statistics statistics-horizontal">
+                            <div class="info info-horizontal">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <div class="icon icon-primary icon-circle">
+                                            <i class="now-ui-icons business_money-coins"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-7 text-right">
+                                        <h3 class="info-title">{{=algo}}</h3>
+                                        <h6 class="stats-title">Algorithm</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="card-footer ">
+                        <div class="stats">
+                            <i class="now-ui-icons business_money-coins"></i> {{=algo}}
+                        </div>
+                    </div>
+                </div>
+  </div>
+   <div class="col-lg-3 col-sm-6">
+                <div class="card card-stats">
+                    <div class="card-body ">
+                        <div class="statistics statistics-horizontal">
+                            <div class="info info-horizontal">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <div class="icon icon-warning icon-circle">
+                                            <i class="now-ui-icons objects_spaceship"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-7 text-right">
+                                        <h3 class="info-title">{{=it.stats.algos[algo].workers}}</h3>
+                                        <h6 class="stats-title">Workers</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="card-footer ">
+                        <div class="stats">
+                            <i class="now-ui-icons objects_spaceship"></i> {{=it.stats.algos[algo].workers}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="card card-stats">
+                    <div class="card-body ">
+                        <div class="statistics statistics-horizontal">
+                            <div class="info info-horizontal">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <div class="icon icon-danger icon-circle">
+                                            <i class="now-ui-icons ui-2_chat-round"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-7 text-right">
+                                        <h3 class="info-title">{{=it.stats.algos[algo].hashrateString}}</h3>
+                                        <h6 class="stats-title">Hash Rate</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="card-footer ">
+                        <div class="stats">
+                            <i class="now-ui-icons ui-2_chat-round"></i> {{=it.stats.algos[algo].hashrateString}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+   {{ } }}    
+   {{ for(var pool in it.stats.pools) { }}    
+    <div class="col-lg-3 col-sm-6">
+                <div class="card card-stats">
+                    <div class="card-body ">
+                        <div class="statistics statistics-horizontal">
+                            <div class="info info-horizontal">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <div class="icon icon-info icon-circle">
+                                            <i class="now-ui-icons objects_support-17"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col-7 text-right">
+                                        <span class="btn btn-success">{{=pool}}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="card-footer ">
+                        <div class="stats">
+                            <i class="now-ui-icons arrows-1_refresh-69"></i> Pool
+                        </div>
+                    </div>
+                </div>
+            </div>
+    {{ } }}
+</div>
+
+<div class="row">
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 		<div class="card">
 			<div class="card-header">
